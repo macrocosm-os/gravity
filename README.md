@@ -8,4 +8,10 @@ Validators must request write access to this repo in order to submit their desir
 
 We will use this repo to test the pulling and data aggregation workflows. 
 
+## Open Questions
+
+How can we test the commit hash workflow? 
+
+We can use testnet; either a new netuid or an existing one (e.g. subnet 1 @ netuid 61 or netuid 102).
+
 THEN DELETE ME.
