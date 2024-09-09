@@ -1,15 +1,1 @@
-[
-    {
-        "source_name": "reddit",
-        "label_weights": {
-            "r/Bitcoin": 0.4,
-            "r/filechanged": 0.1
-        }
-    },
-    {
-        "source_name": "x",
-        "label_weights": {
-            "#bitcoin": 0.5
-        }
-    }
-]
+[{"source_name": "reddit", "label_weights": {"r/Bitcoin": 0.5}}, {"source_name": "x", "label_weights": {"#bitcoin": 0.5}}]
