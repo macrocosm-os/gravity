@@ -1,8 +1,19 @@
 [
     {
+        "source_name": "reddit",
+        "label_weights": {
+            "r/ivysaur": 0.1,
+            "r/venasaur": 0.1,
+            "r/charmander": 0.2,
+            "r/charizard": 0.1
+        }
+    },
+    {
         "source_name": "x",
         "label_weights": {
-            "#new": 1.0
+            "#new": 0.1,
+            "#york": 0.3,
+            "#times": 0.1
         }
     }
 ]
