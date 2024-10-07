@@ -1,1 +1,17 @@
-[{"source_name": "reddit", "label_weights": {"r/gravity": 0.1}}, {"source_name": "x", "label_weights": {"Meta": 0.1, "Mistral": 0.8}}]
+[
+    {
+        "source_name": "reddit",
+        "label_weights": {
+            "r/ivysaur": 0.1,
+            "r/venasaur": 0.1
+        }
+    },
+    {
+        "source_name": "x",
+        "label_weights": {
+            "#new": 0.2,
+            "#york": 0.4,
+            "#times": 0.2
+        }
+    }
+]
