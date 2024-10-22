@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# **Bittensor Subnet 13: Data Universe** <!-- omit in toc -->
+# **Bittensor Subnet 13: Gravity Repo** <!-- omit in toc -->
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/bittensor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
