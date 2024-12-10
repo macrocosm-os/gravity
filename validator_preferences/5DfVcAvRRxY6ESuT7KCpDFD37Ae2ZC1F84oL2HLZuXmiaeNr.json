@@ -2,7 +2,15 @@
     {
         "source_name": "reddit",
         "label_weights": {
-            "r/Bitcoin": 1.0
+            "r/birding": 0.25,
+            "r/birdwatching": 0.25
+        }
+    },
+    {
+        "source_name": "x",
+        "label_weights": {
+            "#birds": 0.25,
+            "#audobon": 0.25
         }
     }
 ]
