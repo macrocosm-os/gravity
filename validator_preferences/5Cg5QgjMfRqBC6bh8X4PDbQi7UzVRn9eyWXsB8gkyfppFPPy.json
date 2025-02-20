@@ -2,7 +2,15 @@
     {
         "source_name": "reddit",
         "label_weights": {
-            "r/lego": 1.0
+            "r/lego": 0.25,
+            "r/leagueoflegends": 0.25
+        }
+    },
+    {
+        "source_name": "x",
+        "label_weights": {
+            "#california": 0.25,
+            "#redwine": 0.25
         }
     }
 ]
