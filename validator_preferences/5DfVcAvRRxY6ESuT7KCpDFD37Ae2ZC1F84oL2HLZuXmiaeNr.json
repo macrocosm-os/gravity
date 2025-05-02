@@ -1,1 +1,17 @@
-{}
+[
+    {
+        "source_name": "reddit",
+        "label_weights": {
+            "r/vgc": 0.2,
+            "r/pokemongo": 0.2
+        }
+    },
+    {
+        "source_name": "x",
+        "label_weights": {
+            "#pokemon": 0.2,
+            "#vgc": 0.2,
+            "#tcg": 0.2
+        }
+    }
+]
