@@ -1,17 +1,17 @@
 [
     {
+        "source_name": "reddit",
+        "label_weights": {
+            "r/biden": 0.2,
+            "r/israel": 0.2
+        }
+    },
+    {
         "source_name": "x",
         "label_weights": {
             "#economics": 0.2,
             "#israel": 0.2,
             "#tradetalks": 0.2
-        }
-    },
-    {
-        "source_name": "reddit",
-        "label_weights": {
-            "r/biden": 0.2,
-            "r/israel": 0.2
         }
     }
 ]
