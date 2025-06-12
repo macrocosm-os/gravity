@@ -1,12 +1,23 @@
 [
     {
         "id": "06c98dcc-062a-4684-8455-f27c4b12f3ff",
-        "weight": 1.0,
+        "weight": 0.5,
         "params": {
-            "keyword": "UK",
+            "keyword": "Germany",
             "platform": "youtube",
             "label": "#btc",
-            "post_start_datetime": "2025-03-14",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "06c98dcc-062a-4684-8455-f27c4b12f3ff",
+        "weight": 0.5,
+        "params": {
+            "keyword": "bitcoin",
+            "platform": "x",
+            "label": "#btc",
+            "post_start_datetime": null,
             "post_end_datetime": null
         }
     }
