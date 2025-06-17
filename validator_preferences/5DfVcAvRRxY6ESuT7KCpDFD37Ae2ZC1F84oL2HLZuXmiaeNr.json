@@ -1,11 +1,22 @@
 [
     {
         "id": "f93c81b4-8b65-4902-a7c1-dd8a14b81654",
-        "weight": 1.0,
+        "weight": 0.5,
         "params": {
             "keyword": null,
-            "platform": "x",
-            "label": "cars",
+            "platform": "reddit",
+            "label": "creepy",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "f93c81b4-8b65-4902-a7c1-dd8a14b81654",
+        "weight": 0.5,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/creepy",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
