@@ -1,7 +1,7 @@
 [
     {
         "id": "957b0b7a-e104-42a0-b49f-8203b189fa23",
-        "weight": 0.5,
+        "weight": 0.25,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -12,11 +12,33 @@
     },
     {
         "id": "8e4a42f1-0300-4d6c-b95c-face0f1e8825",
-        "weight": 0.5,
+        "weight": 0.25,
         "params": {
             "keyword": null,
             "platform": "reddit",
             "label": "r/creepy",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "820504f7-92a6-4592-928a-07c80c1895b3",
+        "weight": 0.25,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#happy",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "8e08e113-8809-4514-bb5d-078addca7935",
+        "weight": 0.25,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/sleepy",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
