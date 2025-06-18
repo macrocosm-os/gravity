@@ -1,7 +1,7 @@
 [
     {
         "id": "8dd24733-471a-4c14-a217-df4e519b25d3",
-        "weight": 0.3333333333333333,
+        "weight": 0.25,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -12,7 +12,7 @@
     },
     {
         "id": "9b0a9b7c-4446-4538-80e9-d1088aad4073",
-        "weight": 0.3333333333333333,
+        "weight": 0.25,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -23,11 +23,22 @@
     },
     {
         "id": "e1bf452a-2f95-4229-8c8e-8c60453894e7",
-        "weight": 0.3333333333333333,
+        "weight": 0.25,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#happy",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "b8cce6cb-a124-427b-a143-89da644f2268",
+        "weight": 0.25,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/pol",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
