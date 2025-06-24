@@ -1,13 +1,24 @@
 [
     {
         "id": "89bfe924-7a0e-403d-bb2f-381dee44a8d5",
-        "weight": 1.0,
+        "weight": 0.5,
         "params": {
             "keyword": "space",
             "platform": "x",
             "label": "#space",
             "post_start_datetime": "2025-01-01",
             "post_end_datetime": null
+        }
+    },
+    {
+        "id": "24dca331-980d-4680-924b-2336567b74ac",
+        "weight": 0.5,
+        "params": {
+            "keyword": "ducati",
+            "platform": "x",
+            "label": "#motorbikes",
+            "post_start_datetime": "2025-03-01",
+            "post_end_datetime": "2025-06-01"
         }
     }
 ]
