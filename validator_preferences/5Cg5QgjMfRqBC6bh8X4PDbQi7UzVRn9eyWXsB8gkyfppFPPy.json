@@ -1,7 +1,7 @@
 [
     {
         "id": "crawler-1--i9nb52imzcf5m44plev7",
-        "weight": 0.5,
+        "weight": 0.2,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -12,11 +12,44 @@
     },
     {
         "id": "crawler-0--i9nb52imzcf5m44plev7",
-        "weight": 0.5,
+        "weight": 0.2,
         "params": {
             "keyword": null,
             "platform": "reddit",
             "label": "r/tehran",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-1-pja8mf-nendapag-phjax",
+        "weight": 0.2,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#guitar",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-pja8mf-nendapag-phjax",
+        "weight": 0.2,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/baseball",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-ec-haekxpzjwr0vgnz8oz",
+        "weight": 0.2,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#cars",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
