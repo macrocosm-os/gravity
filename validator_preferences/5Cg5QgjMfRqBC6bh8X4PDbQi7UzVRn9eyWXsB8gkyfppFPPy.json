@@ -1,7 +1,7 @@
 [
     {
         "id": "crawler-1--i9nb52imzcf5m44plev7",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -12,7 +12,7 @@
     },
     {
         "id": "crawler-0--i9nb52imzcf5m44plev7",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -23,7 +23,7 @@
     },
     {
         "id": "crawler-1-pja8mf-nendapag-phjax",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -34,7 +34,7 @@
     },
     {
         "id": "crawler-0-pja8mf-nendapag-phjax",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -45,7 +45,7 @@
     },
     {
         "id": "crawler-0-ec-haekxpzjwr0vgnz8oz",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -56,11 +56,33 @@
     },
     {
         "id": "crawler-0-sejqfbrkggttyq-xqglxe",
-        "weight": 0.16666666666666666,
+        "weight": 0.125,
         "params": {
             "keyword": null,
             "platform": "reddit",
             "label": "r/amitheasshole",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-1-jubaovsrnhpsqk5-kav7v",
+        "weight": 0.125,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#books",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-jubaovsrnhpsqk5-kav7v",
+        "weight": 0.125,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/books",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
