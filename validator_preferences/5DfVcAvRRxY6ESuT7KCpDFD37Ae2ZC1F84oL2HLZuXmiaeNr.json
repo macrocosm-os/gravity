@@ -1,11 +1,22 @@
 [
     {
-        "id": "ebffb778-1d94-4cc8-a7ba-297a90757c0d",
-        "weight": 1.0,
+        "id": "93e9de43-2fe4-4177-b5b4-e3065c8e9358",
+        "weight": 0.5,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#rain",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "8c53b796-e370-4225-9127-ab9846d90d59",
+        "weight": 0.5,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/rain",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
