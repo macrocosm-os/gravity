@@ -1,11 +1,33 @@
 [
     {
-        "id": "f7e14bcd-2d8c-40fe-8739-0267f59cff22",
-        "weight": 1.0,
+        "id": "82087bff-30c9-406d-8f9d-62a7ce64427e",
+        "weight": 0.3333333333333333,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#cars",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "12471e56-659c-45f7-87d9-01f22d10d456",
+        "weight": 0.3333333333333333,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#vans",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "05cfaf18-422e-4d98-984b-2d5943d4353c",
+        "weight": 0.3333333333333333,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/animals",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
