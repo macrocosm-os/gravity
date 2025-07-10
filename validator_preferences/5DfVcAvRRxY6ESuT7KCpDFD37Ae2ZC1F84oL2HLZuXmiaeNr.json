@@ -1,7 +1,7 @@
 [
     {
         "id": "20f05e76-f078-4bec-aeb0-de91e7de9743",
-        "weight": 0.5,
+        "weight": 0.3333333333333333,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -12,11 +12,22 @@
     },
     {
         "id": "8e414ba3-d5ac-4cde-87d2-29cbda8ed0ff",
-        "weight": 0.5,
+        "weight": 0.3333333333333333,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#cars",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "5a47ef6e-c293-423d-896e-c1dbfde0a133",
+        "weight": 0.3333333333333333,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#vans",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
