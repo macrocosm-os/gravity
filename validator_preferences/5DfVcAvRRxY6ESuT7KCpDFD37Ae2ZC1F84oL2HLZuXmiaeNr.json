@@ -1,11 +1,22 @@
 [
     {
-        "id": "b49489c4-9b5b-4eb1-be07-37fb7cfa0175",
-        "weight": 1.0,
+        "id": "crawler-0-multicrawler-9b0cb95c-aff4-48da-ab50-ab87b4b39f87",
+        "weight": 0.5,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#trending",
+            "label": "#cars",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-1-multicrawler-9b0cb95c-aff4-48da-ab50-ab87b4b39f87",
+        "weight": 0.5,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/cars",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
