@@ -1,29 +1,7 @@
 [
     {
-        "id": "crawler-0-w9dtlybuzr--8sjfbnm3y",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": "bitcoin",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-2-uh99mic6n9-u07vijibme",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/popculturechat",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
         "id": "crawler-4-uh99mic6n9-u07vijibme",
-        "weight": 0.09090909090909091,
+        "weight": 0.1,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -33,32 +11,32 @@
         }
     },
     {
-        "id": "crawler-5-uh99mic6n9-u07vijibme",
-        "weight": 0.09090909090909091,
+        "id": "crawler-1-uh99mic6n9-u07vijibme",
+        "weight": 0.1,
         "params": {
             "keyword": null,
             "platform": "reddit",
-            "label": "r/law",
+            "label": "r/worldnews",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
     },
     {
-        "id": "crawler-3-gzxtlwmuiquuwm5yckqka",
-        "weight": 0.09090909090909091,
+        "id": "crawler-13-gzxtlwmuiquuwm5yckqka",
+        "weight": 0.1,
         "params": {
-            "keyword": "heatwave reactions",
-            "platform": "reddit",
-            "label": "r/asia",
+            "keyword": "heatwave reaction",
+            "platform": "x",
+            "label": "@metoffice",
             "post_start_datetime": "2025-04-30T23:00:00Z",
             "post_end_datetime": "2025-09-29T23:00:00Z"
         }
     },
     {
-        "id": "crawler-5-vta56znsuk2lr2sbl1m3h",
-        "weight": 0.09090909090909091,
+        "id": "crawler-5-tuxbilfv1cz0-1-xlokqm",
+        "weight": 0.1,
         "params": {
-            "keyword": "longevity biohack",
+            "keyword": "ai npc opinions",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": null,
@@ -66,56 +44,67 @@
         }
     },
     {
-        "id": "crawler-0-kw1rdoggd80j7n-ttxw2i",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": "pastitsio",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-1-0lxszusvwdodjrwpb5jac",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#pastitsio",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-5-2gvaex4l3yaiz4zvc79j-",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#urbanmobility",
-            "post_start_datetime": "2024-10-31T15:00:00Z",
-            "post_end_datetime": "2024-12-30T15:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-4-2gvaex4l3yaiz4zvc79j-",
-        "weight": 0.09090909090909091,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#mobilitydata",
-            "post_start_datetime": "2024-10-31T15:00:00Z",
-            "post_end_datetime": "2024-12-30T15:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-15-yqcxisrtzatgmm-wlei9-",
-        "weight": 0.09090909090909091,
+        "id": "crawler-13-db7d67aousvd4iy2qpag1",
+        "weight": 0.1,
         "params": {
             "keyword": null,
             "platform": "youtube",
-            "label": "jetset",
+            "label": "@coldfusion",
+            "post_start_datetime": "2025-08-26T05:00:00Z",
+            "post_end_datetime": "2025-08-27T05:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-2-db7d67aousvd4iy2qpag1",
+        "weight": 0.1,
+        "params": {
+            "keyword": "devin ai sentiment",
+            "platform": "reddit",
+            "label": "r/devinai",
+            "post_start_datetime": "2025-08-26T05:00:00Z",
+            "post_end_datetime": "2025-08-27T05:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-11-db7d67aousvd4iy2qpag1",
+        "weight": 0.1,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@aiexplained",
+            "post_start_datetime": "2025-08-26T05:00:00Z",
+            "post_end_datetime": "2025-08-27T05:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-2-2gvaex4l3yaiz4zvc79j-",
+        "weight": 0.1,
+        "params": {
+            "keyword": "traffic patterns",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2024-10-31T15:00:00Z",
+            "post_end_datetime": "2024-12-30T15:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-10-2gvaex4l3yaiz4zvc79j-",
+        "weight": 0.1,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@trafficanalysis",
+            "post_start_datetime": "2024-10-31T15:00:00Z",
+            "post_end_datetime": "2024-12-30T15:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-6-qg9jwiaenf3wyejjnqfdh",
+        "weight": 0.1,
+        "params": {
+            "keyword": "bitcoin",
+            "platform": "reddit",
+            "label": null,
             "post_start_datetime": null,
             "post_end_datetime": null
         }
