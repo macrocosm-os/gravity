@@ -1,95 +1,51 @@
 [
     {
-        "id": "crawler-2-uh99mic6n9-u07vijibme",
-        "weight": 0.1,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/popculturechat",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-uh99mic6n9-u07vijibme",
-        "weight": 0.1,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/askreddit",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-4-uh99mic6n9-u07vijibme",
-        "weight": 0.1,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/interesting",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-5-uh99mic6n9-u07vijibme",
-        "weight": 0.1,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/law",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-19-gzxtlwmuiquuwm5yckqka",
-        "weight": 0.1,
+        "id": "crawler-15-tuxbilfv1cz0-1-xlokqm",
+        "weight": 0.07692307692307693,
         "params": {
             "keyword": null,
             "platform": "youtube",
-            "label": "@climatereality",
-            "post_start_datetime": "2025-04-30T23:00:00Z",
-            "post_end_datetime": "2025-09-29T23:00:00Z"
+            "label": "@eurogamer",
+            "post_start_datetime": null,
+            "post_end_datetime": null
         }
     },
     {
-        "id": "crawler-5-db7d67aousvd4iy2qpag1",
-        "weight": 0.1,
+        "id": "crawler-1-tkeqxg-oz58sfap6mjzkg",
+        "weight": 0.07692307692307693,
         "params": {
-            "keyword": "sentiment",
-            "platform": "x",
-            "label": "#autogpt",
+            "keyword": "sentiment analysis",
+            "platform": "reddit",
+            "label": "r/bittensor",
             "post_start_datetime": "2025-08-26T05:00:00Z",
             "post_end_datetime": "2025-08-27T05:00:00Z"
         }
     },
     {
-        "id": "crawler-4-2gvaex4l3yaiz4zvc79j-",
-        "weight": 0.1,
+        "id": "crawler-8-db7d67aousvd4iy2qpag1",
+        "weight": 0.07692307692307693,
         "params": {
-            "keyword": null,
+            "keyword": "sentiment",
             "platform": "x",
-            "label": "#mobilitydata",
-            "post_start_datetime": "2024-10-31T15:00:00Z",
-            "post_end_datetime": "2024-12-30T15:00:00Z"
+            "label": "@autogpt",
+            "post_start_datetime": "2025-08-26T05:00:00Z",
+            "post_end_datetime": "2025-08-27T05:00:00Z"
         }
     },
     {
-        "id": "crawler-10-2gvaex4l3yaiz4zvc79j-",
-        "weight": 0.1,
+        "id": "crawler-7-2gvaex4l3yaiz4zvc79j-",
+        "weight": 0.07692307692307693,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@trafficanalysis",
+            "keyword": "google mobility report",
+            "platform": "x",
+            "label": null,
             "post_start_datetime": "2024-10-31T15:00:00Z",
             "post_end_datetime": "2024-12-30T15:00:00Z"
         }
     },
     {
         "id": "crawler-0-multicrawler-a795ce37-162e-4d1d-9460-81d4ffb68e3f",
-        "weight": 0.1,
+        "weight": 0.07692307692307693,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -99,12 +55,89 @@
         }
     },
     {
-        "id": "crawler-16-qg9jwiaenf3wyejjnqfdh",
-        "weight": 0.1,
+        "id": "crawler-13-yqcxisrtzatgmm-wlei9-",
+        "weight": 0.07692307692307693,
         "params": {
             "keyword": null,
             "platform": "youtube",
-            "label": "@datadash",
+            "label": "the points guy",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-5-yqcxisrtzatgmm-wlei9-",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "luxury cruise",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-16-yqcxisrtzatgmm-wlei9-",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "executive retreats",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-10-yqcxisrtzatgmm-wlei9-",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "executive vacation ideas",
+            "platform": "x",
+            "label": "@forbestravel",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-11-yqcxisrtzatgmm-wlei9-",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "top ceo getaways",
+            "platform": "x",
+            "label": "@travelleaders",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-6-qg9jwiaenf3wyejjnqfdh",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "bitcoin",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-3-qg9jwiaenf3wyejjnqfdh",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "market sentiment",
+            "platform": "reddit",
+            "label": "r/bitcoinmarkets",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-9-qg9jwiaenf3wyejjnqfdh",
+        "weight": 0.07692307692307693,
+        "params": {
+            "keyword": "latest update",
+            "platform": "x",
+            "label": "#btc",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
