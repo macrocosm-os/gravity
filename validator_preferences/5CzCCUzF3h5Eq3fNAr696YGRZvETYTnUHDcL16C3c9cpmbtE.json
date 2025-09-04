@@ -1,29 +1,51 @@
 [
     {
-        "id": "crawler-4-g4bfnwbw4oif-fpqwgzdl",
-        "weight": 0.01818181818181818,
+        "id": "crawler-2-g4bfnwbw4oif-fpqwgzdl",
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#eyecare",
+            "label": "#eyetips",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
     },
     {
-        "id": "crawler-12-g4bfnwbw4oif-fpqwgzdl",
-        "weight": 0.01818181818181818,
+        "id": "crawler-5-g4bfnwbw4oif-fpqwgzdl",
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#retina",
+            "label": "#eyedr",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-5-uh99mic6n9-u07vijibme",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/law",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-1-uh99mic6n9-u07vijibme",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/worldnews",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
     },
     {
         "id": "crawler-0-multicrawler-a795ce37-162e-4d1d-9460-81d4ffb68e3f",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -34,7 +56,7 @@
     },
     {
         "id": "crawler-0-tpvbcvdrwrzzggmmvfj0g",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "altucher",
             "platform": "x",
@@ -44,74 +66,63 @@
         }
     },
     {
-        "id": "crawler-15-yqcxisrtzatgmm-wlei9-",
-        "weight": 0.01818181818181818,
+        "id": "crawler-1-0lj325gepaeihavbmq0r-",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "oculomics",
+            "platform": "x",
+            "label": "#oculomics",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-9-qg9jwiaenf3wyejjnqfdh",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "latest update",
+            "platform": "x",
+            "label": "#btc",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-12-gu4v2kzh68anobfqidrnr",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "signal",
+            "platform": "x",
+            "label": "@taoai",
+            "post_start_datetime": "2025-08-28T05:00:00Z",
+            "post_end_datetime": "2025-08-29T05:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-13-gu4v2kzh68anobfqidrnr",
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
-            "label": "jetset",
-            "post_start_datetime": null,
-            "post_end_datetime": null
+            "label": "@bittensor",
+            "post_start_datetime": "2025-08-28T05:00:00Z",
+            "post_end_datetime": "2025-08-29T05:00:00Z"
         }
     },
     {
-        "id": "crawler-13-qg9jwiaenf3wyejjnqfdh",
-        "weight": 0.01818181818181818,
+        "id": "crawler-9-gu4v2kzh68anobfqidrnr",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": "bitcoin",
+            "keyword": "tao",
             "platform": "x",
-            "label": null,
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-2-qg9jwiaenf3wyejjnqfdh",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "btc news",
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-1-jbmnkh97zfriiphynt-of",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "sn122",
-            "platform": "reddit",
-            "label": "r/bittensor",
-            "post_start_datetime": "2025-07-31T21:00:00Z",
-            "post_end_datetime": "2025-08-30T21:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-8-jbmnkh97zfriiphynt-of",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "subnet 122",
-            "platform": "x",
-            "label": "#bittensor",
-            "post_start_datetime": "2025-07-31T21:00:00Z",
-            "post_end_datetime": "2025-08-30T21:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-6-pcyt76dd2eryhkr30rr1y",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "india health insurance claim",
-            "platform": "x",
-            "label": "#insuranceclaims",
-            "post_start_datetime": null,
-            "post_end_datetime": null
+            "label": "#cryptoanalytics",
+            "post_start_datetime": "2025-08-28T05:00:00Z",
+            "post_end_datetime": "2025-08-29T05:00:00Z"
         }
     },
     {
         "id": "crawler-5-pcyt76dd2eryhkr30rr1y",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "claim settlement experience",
             "platform": "x",
@@ -122,7 +133,7 @@
     },
     {
         "id": "crawler-8-pcyt76dd2eryhkr30rr1y",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "best health insurance for claims india",
             "platform": "x",
@@ -132,8 +143,30 @@
         }
     },
     {
+        "id": "crawler-11-pcyt76dd2eryhkr30rr1y",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "claim experience",
+            "platform": "x",
+            "label": "@hdfclifeinsurance",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-10-pcyt76dd2eryhkr30rr1y",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "claim settlement",
+            "platform": "x",
+            "label": "@icicilifeinsurance",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
         "id": "crawler-11-ixq0ddsfbnqsm3zvflfsa",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "2025 heatwave",
             "platform": "x",
@@ -144,7 +177,7 @@
     },
     {
         "id": "crawler-8-ixq0ddsfbnqsm3zvflfsa",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "asia",
             "platform": "x",
@@ -155,7 +188,7 @@
     },
     {
         "id": "crawler-12-ixq0ddsfbnqsm3zvflfsa",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "2025 heatwave",
             "platform": "x",
@@ -165,52 +198,8 @@
         }
     },
     {
-        "id": "crawler-13-ixq0ddsfbnqsm3zvflfsa",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "heatwave europe 2025",
-            "platform": "x",
-            "label": "@cnn",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-19-ixq0ddsfbnqsm3zvflfsa",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "climate reality project",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-4-wa6r9a6knwyg5tiox1qib",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "ev incentives",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-02-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-7-wa6r9a6knwyg5tiox1qib",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "affordable ev",
-            "platform": "x",
-            "label": "#electricvehicle",
-            "post_start_datetime": "2025-02-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
         "id": "crawler-12-wa6r9a6knwyg5tiox1qib",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -221,7 +210,7 @@
     },
     {
         "id": "crawler-9-wa6r9a6knwyg5tiox1qib",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "affordable model",
             "platform": "x",
@@ -232,7 +221,7 @@
     },
     {
         "id": "crawler-5-wa6r9a6knwyg5tiox1qib",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "budget electric car",
             "platform": "x",
@@ -242,8 +231,96 @@
         }
     },
     {
+        "id": "crawler-3-wa6r9a6knwyg5tiox1qib",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "best value ev",
+            "platform": "reddit",
+            "label": "r/hybrid",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-11-wa6r9a6knwyg5tiox1qib",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@insideevs",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-2-wa6r9a6knwyg5tiox1qib",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "cheap ev 2025",
+            "platform": "reddit",
+            "label": "r/cars",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-25-1p78qcfb1nc1re9f4wntt",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "btc",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-5-1p78qcfb1nc1re9f4wntt",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "bitcoin market sentiment",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-6-1p78qcfb1nc1re9f4wntt",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "bitcoin",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-0-1p78qcfb1nc1re9f4wntt",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "price prediction",
+            "platform": "reddit",
+            "label": "r/bitcoin",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-10-1p78qcfb1nc1re9f4wntt",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "technical analysis",
+            "platform": "x",
+            "label": "#btc",
+            "post_start_datetime": "2025-02-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
         "id": "crawler-14-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "bitcoin adoption trends",
             "platform": "x",
@@ -253,19 +330,8 @@
         }
     },
     {
-        "id": "crawler-20-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@datadash",
-            "post_start_datetime": "2025-02-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
         "id": "crawler-22-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -276,7 +342,7 @@
     },
     {
         "id": "crawler-8-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "$",
             "platform": "reddit",
@@ -287,7 +353,7 @@
     },
     {
         "id": "crawler-19-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -298,7 +364,7 @@
     },
     {
         "id": "crawler-21-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -308,30 +374,19 @@
         }
     },
     {
-        "id": "crawler-7-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "btc",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-02-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-23-1p78qcfb1nc1re9f4wntt",
-        "weight": 0.01818181818181818,
+        "id": "crawler-1-multicrawler-66791dc6-5578-4f9a-a64e-5711f40454a2",
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
-            "platform": "youtube",
-            "label": "@cryptocasey",
-            "post_start_datetime": "2025-02-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
+            "platform": "reddit",
+            "label": "r/machinelearning",
+            "post_start_datetime": null,
+            "post_end_datetime": null
         }
     },
     {
         "id": "crawler-1-multicrawler-6b12dcbe-4180-4354-87e9-ed0b503bc9f3",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -341,8 +396,19 @@
         }
     },
     {
+        "id": "crawler-0-udasxaak7h7nvpcs6xuhx",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "bittensor",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
         "id": "crawler-1-udasxaak7h7nvpcs6xuhx",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "bittensor",
             "platform": "x",
@@ -352,8 +418,63 @@
         }
     },
     {
+        "id": "crawler-1-a5uawupe8gptrzkdkdtya",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "pet adoption",
+            "platform": "reddit",
+            "label": "r/pets",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-7-a5uawupe8gptrzkdkdtya",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "dog training",
+            "platform": "x",
+            "label": "#petcare",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-4-a5uawupe8gptrzkdkdtya",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "cute animal videos",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-2-a5uawupe8gptrzkdkdtya",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "endangered species",
+            "platform": "reddit",
+            "label": "r/wildlife",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-a5uawupe8gptrzkdkdtya",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "animal behavior",
+            "platform": "reddit",
+            "label": "r/animals",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
         "id": "crawler-3-a5uawupe8gptrzkdkdtya",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "bird migration",
             "platform": "reddit",
@@ -364,7 +485,7 @@
     },
     {
         "id": "crawler-6-a5uawupe8gptrzkdkdtya",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "conservation",
             "platform": "x",
@@ -375,7 +496,7 @@
     },
     {
         "id": "crawler-12-a5uawupe8gptrzkdkdtya",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -385,41 +506,41 @@
         }
     },
     {
-        "id": "crawler-5-a5uawupe8gptrzkdkdtya",
-        "weight": 0.01818181818181818,
+        "id": "crawler-6-6mdfeur-excktujqk0vlf",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": "fun facts",
-            "platform": "x",
-            "label": "#animals",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-5-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "model lineup",
-            "platform": "x",
-            "label": "@tesla",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-8-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "#electricvehicle",
-            "platform": "x",
+            "keyword": "bitcoin",
+            "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-01-01T00:00:00Z",
             "post_end_datetime": "2025-08-30T23:00:00Z"
         }
     },
     {
+        "id": "crawler-13-6mdfeur-excktujqk0vlf",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "bitcoin price",
+            "platform": "x",
+            "label": "@coindesk",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-9-6mdfeur-excktujqk0vlf",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "technical analysis",
+            "platform": "x",
+            "label": "#btc",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
+        }
+    },
+    {
         "id": "crawler-3-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "electric cars list",
             "platform": "reddit",
@@ -429,19 +550,8 @@
         }
     },
     {
-        "id": "crawler-9-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "#evmodels",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
         "id": "crawler-4-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": null,
             "platform": "reddit",
@@ -452,7 +562,7 @@
     },
     {
         "id": "crawler-0-1ocitycmqzevgd1nk4s9h",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "ev models 2024",
             "platform": "reddit",
@@ -462,107 +572,52 @@
         }
     },
     {
-        "id": "crawler-2-4yj6dhypaantal3e5tq-t",
-        "weight": 0.01818181818181818,
+        "id": "crawler-7-1ocitycmqzevgd1nk4s9h",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@cryptocasey",
-            "post_start_datetime": "2025-05-31T23:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-3-4yj6dhypaantal3e5tq-t",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@datadash",
-            "post_start_datetime": "2025-05-31T23:00:00Z",
-            "post_end_datetime": "2025-08-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-0-zslewzjdsifjkoqq0bmn3",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "qbittensor labs",
+            "keyword": "id series",
             "platform": "x",
-            "label": null,
-            "post_start_datetime": null,
-            "post_end_datetime": null
+            "label": "@volkswagen",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
         }
     },
     {
-        "id": "crawler-2-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "id": "crawler-1-1ocitycmqzevgd1nk4s9h",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": "nicotine patch",
+            "keyword": "electric vehicle manufacturers",
             "platform": "reddit",
-            "label": "r/mcas",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
+            "label": "r/electricvehicles",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
         }
     },
     {
-        "id": "crawler-12-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "id": "crawler-6-1ocitycmqzevgd1nk4s9h",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": "nicotine patch",
-            "platform": "reddit",
-            "label": "r/chronicfatigue",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
+            "keyword": "e-nv200",
+            "platform": "x",
+            "label": "@nissanev",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
         }
     },
     {
-        "id": "crawler-1-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "id": "crawler-4-4yj6dhypaantal3e5tq-t",
+        "weight": 0.015384615384615385,
         "params": {
-            "keyword": "nicotine patch",
-            "platform": "reddit",
-            "label": "r/covidpositive",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-6-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "nicotine patch",
-            "platform": "reddit",
-            "label": "r/covid19",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-11-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "nicotine patch",
-            "platform": "reddit",
-            "label": "r/fibromyalgia",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-5-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
-        "params": {
-            "keyword": "nicotine patch",
-            "platform": "reddit",
-            "label": "r/coronavirus",
-            "post_start_datetime": "2020-01-01T05:00:00Z",
-            "post_end_datetime": "2025-09-01T04:00:00Z"
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@bitcoin",
+            "post_start_datetime": "2025-05-31T23:00:00Z",
+            "post_end_datetime": "2025-08-30T23:00:00Z"
         }
     },
     {
         "id": "crawler-9-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "nicotine patch",
             "platform": "reddit",
@@ -573,7 +628,7 @@
     },
     {
         "id": "crawler-7-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "nicotine patch",
             "platform": "reddit",
@@ -584,7 +639,7 @@
     },
     {
         "id": "crawler-10-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "nicotine patch",
             "platform": "reddit",
@@ -595,13 +650,68 @@
     },
     {
         "id": "crawler-0-iiyyprfhizbncmbkemkmx",
-        "weight": 0.01818181818181818,
+        "weight": 0.015384615384615385,
         "params": {
             "keyword": "nicotine patch",
             "platform": "reddit",
             "label": "r/covidlonghaulers",
             "post_start_datetime": "2020-01-01T05:00:00Z",
             "post_end_datetime": "2025-09-01T04:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-8-iiyyprfhizbncmbkemkmx",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "nicotine patch",
+            "platform": "reddit",
+            "label": "r/cfs",
+            "post_start_datetime": "2020-01-01T05:00:00Z",
+            "post_end_datetime": "2025-09-01T04:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-3-smxjln7paacmhjdf9xk8t",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "bitcoin price",
+            "platform": "x",
+            "label": "#bitcoin",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-10-smxjln7paacmhjdf9xk8t",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@datadash",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-9-smxjln7paacmhjdf9xk8t",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@coinbureau",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-6-smxjln7paacmhjdf9xk8t",
+        "weight": 0.015384615384615385,
+        "params": {
+            "keyword": "regulation updates",
+            "platform": "x",
+            "label": "#bitcoinnews",
+            "post_start_datetime": null,
+            "post_end_datetime": null
         }
     }
 ]
