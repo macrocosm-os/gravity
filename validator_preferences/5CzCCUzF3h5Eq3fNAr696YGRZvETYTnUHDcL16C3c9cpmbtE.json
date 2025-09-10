@@ -198,12 +198,23 @@
         }
     },
     {
-        "id": "crawler-1-rxi2nusjfcvgse2easawm",
+        "id": "crawler-1-db4jtjlpsw7ggakw8ji9r",
         "weight": 0.00425531914893617,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#tao",
+            "label": "#token_price",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-segs06rac0uypigg4y9k7",
+        "weight": 0.00425531914893617,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/ukrainianconflict",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
@@ -281,17 +292,6 @@
             "keyword": null,
             "platform": "x",
             "label": "#bitcoin",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-9-domef3fxbq50hxbx3fxqr",
-        "weight": 0.00425531914893617,
-        "params": {
-            "keyword": "ai npc",
-            "platform": "x",
-            "label": "#gaming",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
