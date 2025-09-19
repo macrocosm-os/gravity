@@ -1,18 +1,7 @@
 [
     {
-        "id": "crawler-0-multicrawler-test-workflow-id-trump-1",
-        "weight": 0.5,
-        "params": {
-            "keyword": "trump",
-            "platform": "reddit",
-            "label": "r/politics",
-            "post_start_datetime": "2025-08-15T23:00:00Z",
-            "post_end_datetime": "2025-09-15T22:59:59Z"
-        }
-    },
-    {
         "id": "crawler-0-multicrawler-test-workflow-id-bbc-1",
-        "weight": 0.5,
+        "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "youtube",
