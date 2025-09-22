@@ -198,34 +198,12 @@
         }
     },
     {
-        "id": "crawler-1-rxi2nusjfcvgse2easawm",
-        "weight": 0.0014265335235378032,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#tao",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
         "id": "crawler-1-db4jtjlpsw7ggakw8ji9r",
         "weight": 0.0014265335235378032,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#token_price",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-db4jtjlpsw7ggakw8ji9r",
-        "weight": 0.0014265335235378032,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/ethereum",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
@@ -7708,6 +7686,28 @@
             "label": "@peterattia",
             "post_start_datetime": "2025-08-22T22:00:00Z",
             "post_end_datetime": "2025-09-22T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-3nweo2mbndc8jbqf7k5n-",
+        "weight": 0.0014265335235378032,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/competitivepokemon",
+            "post_start_datetime": "2025-08-23T04:00:00Z",
+            "post_end_datetime": "2025-09-23T03:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-3nweo2mbndc8jbqf7k5n-",
+        "weight": 0.0014265335235378032,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/vgc",
+            "post_start_datetime": "2025-08-23T04:00:00Z",
+            "post_end_datetime": "2025-09-23T03:59:59Z"
         }
     }
 ]
