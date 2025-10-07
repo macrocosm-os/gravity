@@ -1,1998 +1,73 @@
 [
     {
-        "id": "crawler-1-rxi2nusjfcvgse2easawm",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-0-yc5xopqplwcq-6dbz5tec",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "sf6",
+            "platform": "reddit",
+            "label": "r/videogames",
+            "post_start_datetime": "2025-09-02T23:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-yc5xopqplwcq-6dbz5tec",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "sf6",
+            "platform": "x",
+            "label": "#gaming",
+            "post_start_datetime": "2025-09-02T23:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-whzd7enhg31ca9lvfwzin",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "psychic power",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-05T07:00:00Z",
+            "post_end_datetime": "2025-10-06T06:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-whzd7enhg31ca9lvfwzin",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "psychic power",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-09-05T07:00:00Z",
+            "post_end_datetime": "2025-10-06T06:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-miumfbskkdixmc9yfva--",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#tao",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-1-db4jtjlpsw7ggakw8ji9r",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#token_price",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-db4jtjlpsw7ggakw8ji9r",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/ethereum",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-multicrawler-2932c2b3-5a4e-4096-b756-4d21ac45fb47",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#hot",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-multicrawler-53970f85-8ad1-4c60-8080-30a3661b2786",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#ai",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-1-multicrawler-53970f85-8ad1-4c60-8080-30a3661b2786",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "2025 heatwave europe",
-            "platform": "reddit",
-            "label": "r/climate",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-2-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "heatwave 2025 reactions",
-            "platform": "reddit",
-            "label": "r/europe",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-1-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "2025 heatwave asia",
-            "platform": "reddit",
-            "label": "r/climate",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-3-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "heatwave 2025 reactions",
-            "platform": "reddit",
-            "label": "r/asia",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-9-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "heatwave reaction",
-            "platform": "x",
-            "label": "@meteofrance",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-4-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "2025 heatwave",
-            "platform": "reddit",
-            "label": "r/weather",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-6-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "asia",
-            "platform": "x",
-            "label": "#heatwave2025",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-7-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "2025 europe",
-            "platform": "x",
-            "label": "#extremeweather",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-8-o7zhq8jjfn6jubbmsfszm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "2025 heatwave",
-            "platform": "x",
-            "label": "@bbcweather",
-            "post_start_datetime": null,
-            "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-2-fdbqnfbu9eqjcfsca-6he",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai nation",
-            "platform": "reddit",
-            "label": "r/futurism",
-            "post_start_datetime": "2025-08-26T04:00:00Z",
-            "post_end_datetime": "2025-09-26T03:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-fdbqnfbu9eqjcfsca-6he",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai state",
-            "platform": "reddit",
-            "label": "r/politicalscience",
-            "post_start_datetime": "2025-08-26T04:00:00Z",
-            "post_end_datetime": "2025-09-26T03:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-fdbqnfbu9eqjcfsca-6he",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai governance",
-            "platform": "reddit",
-            "label": "r/aiethics",
-            "post_start_datetime": "2025-08-26T04:00:00Z",
-            "post_end_datetime": "2025-09-26T03:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-7dfuj6j02ojg-t57yohry",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "trump",
-            "platform": "reddit",
-            "label": "r/politics",
-            "post_start_datetime": "2025-08-25T23:00:00Z",
-            "post_end_datetime": "2025-09-25T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-8m2lvzsjgmhkra4imp0jm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "diffusion models",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-25T23:00:00Z",
-            "post_end_datetime": "2025-09-25T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-87zaasvzotoyf-a4bjc5j",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "whiskey",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-26T14:00:00Z",
-            "post_end_datetime": "2025-09-26T13:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-87zaasvzotoyf-a4bjc5j",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#whiskey",
-            "post_start_datetime": "2025-08-26T14:00:00Z",
-            "post_end_datetime": "2025-09-26T13:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-87zaasvzotoyf-a4bjc5j",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#whisky",
-            "post_start_datetime": "2025-08-26T14:00:00Z",
-            "post_end_datetime": "2025-09-26T13:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-87zaasvzotoyf-a4bjc5j",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "whisky",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-26T14:00:00Z",
-            "post_end_datetime": "2025-09-26T13:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-87zaasvzotoyf-a4bjc5j",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "single malt",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-26T14:00:00Z",
-            "post_end_datetime": "2025-09-26T13:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-dnfhbqy2diqj84n-yw4dg",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/ukpolitics",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-09-24T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-7-clsrsoqnzbv3m87oktjcf",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#machinelearning",
-            "post_start_datetime": "2025-08-26T23:00:00Z",
-            "post_end_datetime": "2025-09-26T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "gen ai",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-3-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "gen ai",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-2-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "agi",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-6-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "generative ai",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-4-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "generative ai",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-5-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "gen ai",
-            "platform": "reddit",
-            "label": "r/generativeai",
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-0-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "large language models",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-8-gpayng8kzmf5qph76bjgr",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "agi",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2024-11-04T00:00:00Z",
-            "post_end_datetime": "2025-07-30T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-0-yzqlreg4dn0c0yglnve5y",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "wlfi",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-27T15:00:00Z",
-            "post_end_datetime": "2025-09-27T14:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-yzqlreg4dn0c0yglnve5y",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "world liberty financial",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-27T15:00:00Z",
-            "post_end_datetime": "2025-09-27T14:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-cehwf8euqxzhqno3p-8aw",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "dopamine detox",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-28T05:00:00Z",
-            "post_end_datetime": "2025-09-28T04:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-sayxdxjbinkr2zg-0qj9s",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "markets",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-28T04:00:00Z",
-            "post_end_datetime": "2025-10-31T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-3-sayxdxjbinkr2zg-0qj9s",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "sentiment",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-28T04:00:00Z",
-            "post_end_datetime": "2025-10-31T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-1-sayxdxjbinkr2zg-0qj9s",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bearish",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-28T04:00:00Z",
-            "post_end_datetime": "2025-10-31T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-0-sayxdxjbinkr2zg-0qj9s",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bullish",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-28T04:00:00Z",
-            "post_end_datetime": "2025-10-31T04:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-3-cmmsx5jm-kc6kydpdbyqm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bittensor",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2025-08-29T23:00:00Z",
-            "post_end_datetime": "2025-09-29T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-cmmsx5jm-kc6kydpdbyqm",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bittensor",
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-08-29T23:00:00Z",
-            "post_end_datetime": "2025-09-29T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/todayilearned",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-3-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/dogecoin",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-4-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/funny",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-9-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/politics",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-8-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/news",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-2-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/btc",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-10-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/cnn",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-1-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/bitcoin",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-5-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/askreddit",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-0-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/ethereum",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-7-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/worldnews",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-11-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/bbc",
-            "post_start_datetime": "2025-09-23T09:33:17Z",
-            "post_end_datetime": "2025-09-30T09:33:17Z"
-        }
-    },
-    {
-        "id": "crawler-0-0ps-y3xchvtqvbekjj4bk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "subnet",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-31T05:00:00Z",
-            "post_end_datetime": "2025-10-01T04:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1---bvbawoijqlsh2trfbji",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "tao bittensor",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3---bvbawoijqlsh2trfbji",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bittensor subnet",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2---bvbawoijqlsh2trfbji",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "$tao",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0---bvbawoijqlsh2trfbji",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "bittensor",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt performance",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai agent use cases",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-14-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@techlinked",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-8-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "agent capabilities",
-            "platform": "x",
-            "label": "#llm",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-10-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@twominutepapers",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "feedback",
-            "platform": "x",
-            "label": "#devinai",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "devin ai",
-            "platform": "reddit",
-            "label": "r/autogpt",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-11-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@coldfusion",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-13-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@sentdex",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-9-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt updates",
-            "platform": "x",
-            "label": "@openai",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "opinions",
-            "platform": "x",
-            "label": "#aiagents",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-5-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "experience",
-            "platform": "x",
-            "label": "#autogpt",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-12-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@aiexplained",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "devin vs chatgpt",
-            "platform": "reddit",
-            "label": "r/chatgpt",
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-f4hbiktrlnanjgze9619w",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai agents",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-31T23:00:00Z",
-            "post_end_datetime": "2025-10-01T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/pinetwork",
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "token2049",
-            "platform": "reddit",
-            "label": "r/sgcrypto",
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-5-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "token2049",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/token2049",
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-f6gwtqf7lu6hghdv7ae0c",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#token2049",
-            "post_start_datetime": "2025-09-01T16:00:00Z",
-            "post_end_datetime": "2025-10-02T15:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-ljj6tm-8mc95mher92tut",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "amazon",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-zerh3wodpmtsd4sfdc7p8",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "golden",
-            "platform": "x",
-            "label": "#dogs",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-zerh3wodpmtsd4sfdc7p8",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/dogs",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-zerh3wodpmtsd4sfdc7p8",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#labrador",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-xk-vhknjyjhw68yepqjsy",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "msnbc",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-xk-vhknjyjhw68yepqjsy",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "sky news",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-xk-vhknjyjhw68yepqjsy",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "bbc",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-amtfpicfi6qp8wiga-iov",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#trump",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-amtfpicfi6qp8wiga-iov",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "trump",
-            "platform": "x",
-            "label": "#politics",
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-amtfpicfi6qp8wiga-iov",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "vance",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-01T23:00:00Z",
-            "post_end_datetime": "2025-10-02T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-10-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#aiagents",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "experience",
-            "platform": "reddit",
-            "label": "r/autogpt",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "devin ai",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-9-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#devinai",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt vs chatgpt",
-            "platform": "reddit",
-            "label": "r/chatgpt",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-8-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#autogpt",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai agents",
-            "platform": "reddit",
-            "label": "r/machinelearning",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai agent safety",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "devin",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-14-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "devin ai feedback",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-11-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "@autogpt",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-15-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "ai agents discussion",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-12-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt",
-            "platform": "x",
-            "label": "@openai",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-20-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@sentdex",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-17-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@coldfusion",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-5-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-19-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@techlinked",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-16-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@twominutepapers",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-18-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@lexfridman",
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-13-g03pqkoypgils-5so1xhz",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "autogpt review",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-09-02T22:00:00Z",
-            "post_end_datetime": "2025-10-03T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "papaya bantz",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "jokerz",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-11-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "chemstar",
-            "platform": "reddit",
-            "label": "r//ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "garlic truffle",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "blunicorn",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabi",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "black cherry punch",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-24-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "mango summit",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "lavender cake",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-20-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "tripoli",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-25-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "jet pilot",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "banjo",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-15-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "mango gas",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-5-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "mimosa evo",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-9-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "gelato #33",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-18-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "imperial mimosa",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-23-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "golden runtz",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-8-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "strawberry glue",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-12-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "berry cream puff",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-21-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "dank wafers",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-13-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "miracle alien cookies",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-10-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "motorbreath",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-14-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "jack herer",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-16-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "frosted lime cbd",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-17-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "mimosa orange punch",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-19-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "high silver",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-22-bdpzlgxmm2zbehorxzvrk",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "purple punch",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "cali sunset",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-8-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "frosted cookies",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-5-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "donkey butter",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "purple octane",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "original blitz",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "candy store",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-10-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "apples & bananas",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "crossbow",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-11-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "miracle alien cookies #3",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "king\u2019s kush",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-14-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "first class funk",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "puffo gelato",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-15-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "alaskan thunder",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-13-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "haymaker haze",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-19-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "apples & gas",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-22-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "wedding cake",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-16-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "pink snowcone",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-12-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "gmo tropical reign",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-9-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "modified grapes",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-20-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "frosted lemon angel",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-18-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "pink lilac",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-25-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "super-g citra",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-21-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "scout cake",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-17-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "grape galena",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-23-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "space cake",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-24-icphc8yjejprof4oppvei",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "sour cherry punch",
-            "platform": "reddit",
-            "label": "r/ukmedicalcannabis",
-            "post_start_datetime": "2021-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-qab9qmew70-oixj26vlbv",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "openai",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-qab9qmew70-oixj26vlbv",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "generativeai",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-qab9qmew70-oixj26vlbv",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "googledeepmind",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-m-j-4giibdboscosi-eou",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "aiangel",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-m-j-4giibdboscosi-eou",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "krishnaik06",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-m-j-4giibdboscosi-eou",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "wesroth",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-m-j-4giibdboscosi-eou",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "theaiandy",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-m-j-4giibdboscosi-eou",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "3blue1brown",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-x0b4llifwxu--c99jrpgi",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@sirajraval",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-2-x0b4llifwxu--c99jrpgi",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@whatsai",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-x0b4llifwxu--c99jrpgi",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@nicolaiai",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-x0b4llifwxu--c99jrpgi",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@aiandgames",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-x0b4llifwxu--c99jrpgi",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "@theaiandy",
-            "post_start_datetime": "2025-01-01T00:00:00Z",
-            "post_end_datetime": "2025-10-03T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-6-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": "r/ethdev",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-65-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-1-miumfbskkdixmc9yfva--",
+        "weight": 0.00625,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "coin bureau",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-44-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
+            "keyword": "tao",
             "platform": "x",
-            "label": "@scamwatcher",
+            "label": "#bittensor",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-69-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-71-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2002,74 +77,8 @@
         }
     },
     {
-        "id": "crawler-49-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "#cryptoarnaque",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-72-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "hasheur",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-77-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "cryptoast",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-37-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "#fraud",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-47-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "x",
-            "label": "#escroquerie",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-39-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "#defiscam",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
         "id": "crawler-59-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2080,139 +89,7 @@
     },
     {
         "id": "crawler-78-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "le tricheur",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-21-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": "r/francecrypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-31-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "#cryptoscam",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-73-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "hasheur",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-42-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "@scamwatcher",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-35-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "x",
-            "label": "#web3",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-71-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "cryptocasey",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-7-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": "r/ethdev",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-43-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "@scamwatcher",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-55-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "scam detector",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-48-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "#cryptoarnaque",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-26-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti crypto 2023",
-            "platform": "reddit",
-            "label": "r/france",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-79-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2223,7 +100,7 @@
     },
     {
         "id": "crawler-74-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2233,371 +110,8 @@
         }
     },
     {
-        "id": "crawler-5-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": "r/crypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-13-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": "r/scams",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-25-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti crypto 2022",
-            "platform": "reddit",
-            "label": "r/france",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-18-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-3-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": "r/crypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-30-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "#cryptoscam",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": "r/cryptoscams",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-12-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": "r/scams",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-4-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": "r/crypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-22-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": "r/francecrypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-29-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "scam 2023",
-            "platform": "x",
-            "label": "#maximesebti",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-33-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "#web3",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-10-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti scam 2022",
-            "platform": "reddit",
-            "label": "r/defi",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-36-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "#fraud",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "reddit",
-            "label": "r/cryptoscams",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-27-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "scam 2021",
-            "platform": "x",
-            "label": "#maximesebti",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-28-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "scam 2022",
-            "platform": "x",
-            "label": "#maximesebti",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-17-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti fraud 2023",
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-20-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-24-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti crypto 2021",
-            "platform": "reddit",
-            "label": "r/france",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-14-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": "r/scams",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-23-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": "r/francecrypto",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-46-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "#escroquerie",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-11-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti scam 2023",
-            "platform": "reddit",
-            "label": "r/defi",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-62-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "bbc news",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-8-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": "r/ethdev",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-58-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "vice news",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-52-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "x",
-            "label": "@hasheur",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-66-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "the defiant",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-54-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "scam detector",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-15-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti fraud 2021",
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-9-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti scam 2021",
-            "platform": "reddit",
-            "label": "r/defi",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-19-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-70-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-69-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2607,43 +121,10 @@
         }
     },
     {
-        "id": "crawler-50-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-39-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "x",
-            "label": "#cryptoarnaque",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-16-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti fraud 2022",
-            "platform": "reddit",
-            "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-32-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "x",
-            "label": "#cryptoscam",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-40-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2022",
+            "keyword": "maxime sebti 2021",
             "platform": "x",
             "label": "#defiscam",
             "post_start_datetime": "2025-09-04T22:00:00Z",
@@ -2651,19 +132,19 @@
         }
     },
     {
-        "id": "crawler-2-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-44-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
             "keyword": "maxime sebti 2023",
-            "platform": "reddit",
-            "label": "r/cryptoscams",
+            "platform": "x",
+            "label": "@scamwatcher",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-80-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-79-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2673,52 +154,8 @@
         }
     },
     {
-        "id": "crawler-41-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
-            "platform": "x",
-            "label": "#defiscam",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-51-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2021",
-            "platform": "x",
-            "label": "@hasheur",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-60-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "bbc news",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-63-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "coin bureau",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-76-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-77-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "youtube",
@@ -2728,10 +165,43 @@
         }
     },
     {
-        "id": "crawler-45-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-72-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": "maxime sebti 2021",
+            "keyword": null,
+            "platform": "youtube",
+            "label": "hasheur",
+            "post_start_datetime": "2025-09-04T22:00:00Z",
+            "post_end_datetime": "2025-10-05T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-73-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "hasheur",
+            "post_start_datetime": "2025-09-04T22:00:00Z",
+            "post_end_datetime": "2025-10-05T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-65-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "coin bureau",
+            "post_start_datetime": "2025-09-04T22:00:00Z",
+            "post_end_datetime": "2025-10-05T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-47-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "maxime sebti 2023",
             "platform": "x",
             "label": "#escroquerie",
             "post_start_datetime": "2025-09-04T22:00:00Z",
@@ -2739,43 +209,10 @@
         }
     },
     {
-        "id": "crawler-67-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-37-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "the defiant",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-56-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "scam detector",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-61-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "bbc news",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-38-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
+            "keyword": "maxime sebti 2022",
             "platform": "x",
             "label": "#fraud",
             "post_start_datetime": "2025-09-04T22:00:00Z",
@@ -2783,10 +220,10 @@
         }
     },
     {
-        "id": "crawler-34-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-35-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": "maxime sebti 2022",
+            "keyword": "maxime sebti 2023",
             "platform": "x",
             "label": "#web3",
             "post_start_datetime": "2025-09-04T22:00:00Z",
@@ -2794,102 +231,1532 @@
         }
     },
     {
-        "id": "crawler-75-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-26-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "cryptoast",
+            "keyword": "maxime sebti crypto 2023",
+            "platform": "reddit",
+            "label": "r/france",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-68-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-21-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "the defiant",
+            "keyword": "maxime sebti 2021",
+            "platform": "reddit",
+            "label": "r/francecrypto",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-57-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-49-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "vice news",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-64-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "coin bureau",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-53-is-w24aalzlmbce0d3chd",
-        "weight": 0.0038022813688212928,
-        "params": {
-            "keyword": "maxime sebti 2023",
+            "keyword": "maxime sebti 2022",
             "platform": "x",
-            "label": "@hasheur",
+            "label": "#cryptoarnaque",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-1-miumfbskkdixmc9yfva--",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-6-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
         "params": {
-            "keyword": "tao",
-            "platform": "x",
-            "label": "#bittensor",
+            "keyword": "maxime sebti 2021",
+            "platform": "reddit",
+            "label": "r/ethdev",
             "post_start_datetime": "2025-09-04T22:00:00Z",
             "post_end_datetime": "2025-10-05T21:59:59Z"
         }
     },
     {
-        "id": "crawler-0-miumfbskkdixmc9yfva--",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-48-is-w24aalzlmbce0d3chd",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "maxime sebti 2021",
+            "platform": "x",
+            "label": "#cryptoarnaque",
+            "post_start_datetime": "2025-09-04T22:00:00Z",
+            "post_end_datetime": "2025-10-05T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-x0b4llifwxu--c99jrpgi",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@nicolaiai",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-x0b4llifwxu--c99jrpgi",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@aiandgames",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-x0b4llifwxu--c99jrpgi",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@whatsai",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-x0b4llifwxu--c99jrpgi",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@theaiandy",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-x0b4llifwxu--c99jrpgi",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@sirajraval",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-m-j-4giibdboscosi-eou",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "theaiandy",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-m-j-4giibdboscosi-eou",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "wesroth",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-m-j-4giibdboscosi-eou",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "krishnaik06",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-m-j-4giibdboscosi-eou",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "3blue1brown",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-m-j-4giibdboscosi-eou",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "aiangel",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-qab9qmew70-oixj26vlbv",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "googledeepmind",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-qab9qmew70-oixj26vlbv",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "generativeai",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-qab9qmew70-oixj26vlbv",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "openai",
+            "post_start_datetime": "2025-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-24-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "sour cherry punch",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-23-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "space cake",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-21-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "scout cake",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-17-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "grape galena",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-25-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "super-g citra",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-20-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "frosted lemon angel",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-9-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "modified grapes",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-22-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "wedding cake",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-19-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "apples & gas",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-18-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "pink lilac",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-15-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "alaskan thunder",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-12-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "gmo tropical reign",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-16-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "pink snowcone",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-13-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "haymaker haze",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-14-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "first class funk",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-11-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "miracle alien cookies #3",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-10-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "apples & bananas",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-8-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "frosted cookies",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-7-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "candy store",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-6-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "puffo gelato",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-5-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "donkey butter",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "crossbow",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "purple octane",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "king\u2019s kush",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "original blitz",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-icphc8yjejprof4oppvei",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "cali sunset",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-22-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "purple punch",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-19-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "high silver",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-20-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "tripoli",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-14-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "jack herer",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-13-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "miracle alien cookies",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-21-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "dank wafers",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-18-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "imperial mimosa",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-17-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "mimosa orange punch",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-16-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "frosted lime cbd",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-15-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "mango gas",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-9-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "gelato #33",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-8-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "strawberry glue",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-23-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "golden runtz",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-24-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "mango summit",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-11-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "chemstar",
+            "platform": "reddit",
+            "label": "r//ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-12-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "berry cream puff",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-10-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "motorbreath",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-25-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "jet pilot",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-7-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "black cherry punch",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-6-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "lavender cake",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "jokerz",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-5-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "mimosa evo",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "banjo",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "garlic truffle",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "blunicorn",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabi",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-bdpzlgxmm2zbehorxzvrk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "papaya bantz",
+            "platform": "reddit",
+            "label": "r/ukmedicalcannabis",
+            "post_start_datetime": "2021-01-01T00:00:00Z",
+            "post_end_datetime": "2025-10-03T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-19-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@techlinked",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-20-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@sentdex",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-16-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@twominutepapers",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-18-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@lexfridman",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-13-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt review",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-17-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@coldfusion",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-14-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "devin ai feedback",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-15-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "ai agents discussion",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-12-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt",
+            "platform": "x",
+            "label": "@openai",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-11-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#tao",
-            "post_start_datetime": "2025-09-04T22:00:00Z",
-            "post_end_datetime": "2025-10-05T21:59:59Z"
+            "label": "@autogpt",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
         }
     },
     {
-        "id": "crawler-0-whzd7enhg31ca9lvfwzin",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-7-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
         "params": {
-            "keyword": "psychic power",
+            "keyword": "ai agent safety",
             "platform": "reddit",
             "label": null,
-            "post_start_datetime": "2025-09-05T07:00:00Z",
-            "post_end_datetime": "2025-10-06T06:59:59Z"
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
         }
     },
     {
-        "id": "crawler-1-whzd7enhg31ca9lvfwzin",
-        "weight": 0.0038022813688212928,
+        "id": "crawler-10-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
         "params": {
-            "keyword": "psychic power",
+            "keyword": null,
+            "platform": "x",
+            "label": "#aiagents",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-8-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#autogpt",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-9-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#devinai",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-5-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-6-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "devin ai",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt vs chatgpt",
+            "platform": "reddit",
+            "label": "r/chatgpt",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "experience",
+            "platform": "reddit",
+            "label": "r/autogpt",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "ai agents",
+            "platform": "reddit",
+            "label": "r/machinelearning",
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "devin",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-g03pqkoypgils-5so1xhz",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-09-02T22:00:00Z",
+            "post_end_datetime": "2025-10-03T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-amtfpicfi6qp8wiga-iov",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "trump",
+            "platform": "x",
+            "label": "#politics",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-amtfpicfi6qp8wiga-iov",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#trump",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-amtfpicfi6qp8wiga-iov",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "vance",
             "platform": "x",
             "label": null,
-            "post_start_datetime": "2025-09-05T07:00:00Z",
-            "post_end_datetime": "2025-10-06T06:59:59Z"
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-xk-vhknjyjhw68yepqjsy",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "msnbc",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-xk-vhknjyjhw68yepqjsy",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "sky news",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-xk-vhknjyjhw68yepqjsy",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "bbc",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-zerh3wodpmtsd4sfdc7p8",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "golden",
+            "platform": "x",
+            "label": "#dogs",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-zerh3wodpmtsd4sfdc7p8",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/dogs",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-zerh3wodpmtsd4sfdc7p8",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#labrador",
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-ljj6tm-8mc95mher92tut",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "amazon",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-01T23:00:00Z",
+            "post_end_datetime": "2025-10-02T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#token2049",
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-5-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "token2049",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/pinetwork",
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/token2049",
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/cryptocurrency",
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-f6gwtqf7lu6hghdv7ae0c",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "token2049",
+            "platform": "reddit",
+            "label": "r/sgcrypto",
+            "post_start_datetime": "2025-09-01T16:00:00Z",
+            "post_end_datetime": "2025-10-02T15:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-13-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@sentdex",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-12-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@aiexplained",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-14-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@techlinked",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "ai agents",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-11-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@coldfusion",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-7-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "opinions",
+            "platform": "x",
+            "label": "#aiagents",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-10-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "@twominutepapers",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-8-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "agent capabilities",
+            "platform": "x",
+            "label": "#llm",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-9-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt updates",
+            "platform": "x",
+            "label": "@openai",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-6-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "feedback",
+            "platform": "x",
+            "label": "#devinai",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "devin vs chatgpt",
+            "platform": "reddit",
+            "label": "r/chatgpt",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "ai agent use cases",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "autogpt performance",
+            "platform": "reddit",
+            "label": "r/machinelearning",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-5-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "experience",
+            "platform": "x",
+            "label": "#autogpt",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-f4hbiktrlnanjgze9619w",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "devin ai",
+            "platform": "reddit",
+            "label": "r/autogpt",
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-2---bvbawoijqlsh2trfbji",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "$tao",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-3---bvbawoijqlsh2trfbji",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "bittensor subnet",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1---bvbawoijqlsh2trfbji",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "tao bittensor",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0---bvbawoijqlsh2trfbji",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "bittensor",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-31T23:00:00Z",
+            "post_end_datetime": "2025-10-01T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-0ps-y3xchvtqvbekjj4bk",
+        "weight": 0.00625,
+        "params": {
+            "keyword": "subnet",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-31T05:00:00Z",
+            "post_end_datetime": "2025-10-01T04:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-11-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/bbc",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-9-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/politics",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-8-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/news",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-10-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/cnn",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-7-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/worldnews",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-6-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/todayilearned",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-5-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/askreddit",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-0-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/ethereum",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-4-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/funny",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-2-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/btc",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-3-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/dogecoin",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
+        }
+    },
+    {
+        "id": "crawler-1-persistent-reddit-cf9c6a41-a95b-4df4-8a22-02fb84911397",
+        "weight": 0.00625,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/bitcoin",
+            "post_start_datetime": "2025-09-23T09:33:17Z",
+            "post_end_datetime": "2025-09-30T09:33:17Z"
         }
     }
 ]
