@@ -1,22 +1,22 @@
 [
     {
-        "id": "crawler-1-jddeoug4womosby94xjfr-prod-copy-v3",
-        "weight": 0.5,
-        "params": {
-            "keyword": "starmer",
-            "platform": "x",
-            "label": "#politics",
-            "post_start_datetime": "2025-09-06T23:00:00Z",
-            "post_end_datetime": "2025-10-07T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-jddeoug4womosby94xjfr-prod-copy-v3",
+        "id": "crawler-0-jddeoug4womosby94xjfr-prod-copy-v6",
         "weight": 0.5,
         "params": {
             "keyword": "trump",
             "platform": "reddit",
             "label": "r/politics",
+            "post_start_datetime": "2025-09-06T23:00:00Z",
+            "post_end_datetime": "2025-10-07T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-jddeoug4womosby94xjfr-prod-copy-v6",
+        "weight": 0.5,
+        "params": {
+            "keyword": "starmer",
+            "platform": "x",
+            "label": "#politics",
             "post_start_datetime": "2025-09-06T23:00:00Z",
             "post_end_datetime": "2025-10-07T22:59:59Z"
         }
