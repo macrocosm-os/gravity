@@ -1,11 +1,33 @@
 [
     {
         "id": "crawler-0-youtube-test-v1",
-        "weight": 1.0,
+        "weight": 0.3333333333333333,
         "params": {
             "keyword": null,
             "platform": "youtube",
             "label": "bbcnews",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-youtube-test-v2",
+        "weight": 0.3333333333333333,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "bbc news",
+            "post_start_datetime": null,
+            "post_end_datetime": null
+        }
+    },
+    {
+        "id": "crawler-0-youtube-test-v3",
+        "weight": 0.3333333333333333,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "bbc",
             "post_start_datetime": null,
             "post_end_datetime": null
         }
