@@ -1056,6 +1056,28 @@
         }
     },
     {
+        "id": "crawler-0-ggxu-ty9tlb9gd8nrb3z1",
+        "weight": 0.004098360655737705,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#cars",
+            "post_start_datetime": "2025-09-16T23:00:00Z",
+            "post_end_datetime": "2025-10-17T22:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-ggxu-ty9tlb9gd8nrb3z1",
+        "weight": 0.004098360655737705,
+        "params": {
+            "keyword": "fast",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-09-16T23:00:00Z",
+            "post_end_datetime": "2025-10-17T22:59:59Z"
+        }
+    },
+    {
         "id": "crawler-8-cexmljhn6fi8teex9-1fi",
         "weight": 0.004098360655737705,
         "params": {
@@ -1788,28 +1810,6 @@
             "keyword": "halvening",
             "platform": "reddit",
             "label": "r/bittensor",
-            "post_start_datetime": "2025-09-14T23:00:00Z",
-            "post_end_datetime": "2025-10-15T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-kgzktd-jxwu5irv-u-za8",
-        "weight": 0.004098360655737705,
-        "params": {
-            "keyword": "england",
-            "platform": "reddit",
-            "label": "r/football",
-            "post_start_datetime": "2025-09-14T23:00:00Z",
-            "post_end_datetime": "2025-10-15T22:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-kgzktd-jxwu5irv-u-za8",
-        "weight": 0.004098360655737705,
-        "params": {
-            "keyword": "england",
-            "platform": "x",
-            "label": "#football",
             "post_start_datetime": "2025-09-14T23:00:00Z",
             "post_end_datetime": "2025-10-15T22:59:59Z"
         }
