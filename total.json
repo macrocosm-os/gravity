@@ -264,62 +264,6 @@
         }
     },
     {
-        "id": "crawler-0-vfebgbnq5te3aclbwbak-",
-        "weight": 1.0,
-        "params": {
-            "keyword": "mamdani",
-            "platform": "reddit",
-            "label": "r/politics",
-            "post_start_datetime": "2025-10-06T23:00:00Z",
-            "post_end_datetime": "2025-11-06T23:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-vfebgbnq5te3aclbwbak-",
-        "weight": 1.0,
-        "params": {
-            "keyword": "cuomo",
-            "platform": "x",
-            "label": "#politics",
-            "post_start_datetime": "2025-10-06T23:00:00Z",
-            "post_end_datetime": "2025-11-06T23:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-0-bzrf4drqyqbmzyfzqsv34",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#109384ttisntitjs",
-            "post_start_datetime": "2025-10-05T23:00:00Z",
-            "post_end_datetime": "2025-10-07T23:00:00Z"
-        }
-    },
-    {
-        "id": "crawler-0-nit1tku8webuyew-xkyzf",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "youtube",
-            "label": "#ytc_c_msnbc",
-            "post_start_datetime": "2025-10-03T23:00:00Z",
-            "post_end_datetime": "2025-11-03T23:59:59Z",
-            "raw_label": "msnbc"
-        }
-    },
-    {
-        "id": "crawler-0-ix-6ah4ylnrbwvqqdw-hc",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#@ai",
-            "post_start_datetime": "2025-10-03T23:00:00Z",
-            "post_end_datetime": "2025-11-03T23:59:59Z"
-        }
-    },
-    {
         "id": "crawler-6-7lbwce6vujqyopqtf0v2a",
         "weight": 1.0,
         "params": {
@@ -1990,7 +1934,7 @@
     },
     {
         "id": "crawler-1-b8a8d495-befb-4b34-b377-e6232658ad68",
-        "weight": 1.3686131386861313,
+        "weight": 1.3736263736263736,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -3981,7 +3925,7 @@
     },
     {
         "id": "crawler-1-0f2d3b89-9e12-4a83-a48d-3edeef1fc9d1",
-        "weight": 1.3686131386861313,
+        "weight": 1.3736263736263736,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -6122,6 +6066,40 @@
             "label": null,
             "post_start_datetime": "2025-09-30T04:00:00Z",
             "post_end_datetime": "2025-10-31T03:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-0-bzrf4drqyqbmzyfzqsv34",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#109384ttisntitjs",
+            "post_start_datetime": "2025-10-05T23:00:00Z",
+            "post_end_datetime": "2025-10-07T23:00:00Z"
+        }
+    },
+    {
+        "id": "crawler-0-nit1tku8webuyew-xkyzf",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "youtube",
+            "label": "#ytc_c_msnbc",
+            "post_start_datetime": "2025-10-03T23:00:00Z",
+            "post_end_datetime": "2025-11-03T23:59:59Z",
+            "raw_label": "msnbc"
+        }
+    },
+    {
+        "id": "crawler-0-ix-6ah4ylnrbwvqqdw-hc",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#@ai",
+            "post_start_datetime": "2025-10-03T23:00:00Z",
+            "post_end_datetime": "2025-11-03T23:59:59Z"
         }
     }
 ]
