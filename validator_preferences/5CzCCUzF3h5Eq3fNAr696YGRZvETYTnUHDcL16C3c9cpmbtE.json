@@ -1,5 +1,16 @@
 [
     {
+        "id": "crawler-0-w-svlzurq70tjecczstka",
+        "weight": 0.005263157894736842,
+        "params": {
+            "keyword": "optometrist",
+            "platform": "reddit",
+            "label": "r/contactlens",
+            "post_start_datetime": "2025-01-01T05:00:00Z",
+            "post_end_datetime": "2025-11-11T04:59:59Z"
+        }
+    },
+    {
         "id": "crawler-4-7btzcjlaxdxcaxou11buu",
         "weight": 0.005263157894736842,
         "params": {
@@ -1683,6 +1694,39 @@
         }
     },
     {
+        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 0.005263157894736842,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#PublicSafety",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-2-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 0.005263157894736842,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#FreezeTheRent",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-1-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 0.005263157894736842,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#CuomoForMayor",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
         "id": "crawler-3-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 0.005263157894736842,
         "params": {
@@ -1705,45 +1749,12 @@
         }
     },
     {
-        "id": "crawler-1-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 0.005263157894736842,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#CuomoForMayor",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-2-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 0.005263157894736842,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#FreezeTheRent",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
         "id": "crawler-12-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 0.005263157894736842,
         "params": {
             "keyword": "debate threads",
             "platform": "reddit",
             "label": "r/NYCPolitics",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 0.005263157894736842,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#PublicSafety",
             "post_start_datetime": "2025-08-06T11:35:52.757975Z",
             "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
@@ -2076,17 +2087,6 @@
             "label": "#defi",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-0-cvzcab81c9inrc3a8m2ms",
-        "weight": 0.005263157894736842,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/askreddit",
-            "post_start_datetime": "2025-10-10T21:00:00Z",
-            "post_end_datetime": "2025-11-10T21:59:59Z"
         }
     }
 ]
