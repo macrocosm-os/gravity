@@ -264,6 +264,28 @@
         }
     },
     {
+        "id": "crawler-0-zveqvxbu3jbcl7o7mkekk",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/askreddit",
+            "post_start_datetime": "2025-10-12T21:00:00Z",
+            "post_end_datetime": "2025-11-12T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-zveqvxbu3jbcl7o7mkekk",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#trending",
+            "post_start_datetime": "2025-10-12T21:00:00Z",
+            "post_end_datetime": "2025-11-12T21:59:59Z"
+        }
+    },
+    {
         "id": "crawler-13-ec9r1rj-stcmh30yjwplq",
         "weight": 1.0,
         "params": {
@@ -1823,12 +1845,12 @@
         }
     },
     {
-        "id": "crawler-5-a5a2be83-a45f-4886-b279-aef502409b1a",
+        "id": "crawler-3-a5a2be83-a45f-4886-b279-aef502409b1a",
         "weight": 1.0,
         "params": {
-            "keyword": "lithium",
-            "platform": "reddit",
-            "label": "r/investing",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Lithium",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -1845,23 +1867,12 @@
         }
     },
     {
-        "id": "crawler-6-a5a2be83-a45f-4886-b279-aef502409b1a",
+        "id": "crawler-4-a5a2be83-a45f-4886-b279-aef502409b1a",
         "weight": 1.0,
         "params": {
-            "keyword": "salar",
+            "keyword": "supply",
             "platform": "reddit",
-            "label": "r/mining",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-0-a5a2be83-a45f-4886-b279-aef502409b1a",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Batteries",
+            "label": "r/EVs",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -1878,23 +1889,56 @@
         }
     },
     {
-        "id": "crawler-4-a5a2be83-a45f-4886-b279-aef502409b1a",
+        "id": "crawler-6-a5a2be83-a45f-4886-b279-aef502409b1a",
         "weight": 1.0,
         "params": {
-            "keyword": "supply",
+            "keyword": "salar",
             "platform": "reddit",
-            "label": "r/EVs",
+            "label": "r/mining",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-3-a5a2be83-a45f-4886-b279-aef502409b1a",
+        "id": "crawler-5-a5a2be83-a45f-4886-b279-aef502409b1a",
+        "weight": 1.0,
+        "params": {
+            "keyword": "lithium",
+            "platform": "reddit",
+            "label": "r/investing",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-0-a5a2be83-a45f-4886-b279-aef502409b1a",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#Lithium",
+            "label": "#Batteries",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-3-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
+        "weight": 1.0,
+        "params": {
+            "keyword": "ARS",
+            "platform": "reddit",
+            "label": "r/Forex",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-1-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Dollarization",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -1922,23 +1966,12 @@
         }
     },
     {
-        "id": "crawler-1-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
+        "id": "crawler-5-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Dollarization",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-3-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
-        "weight": 1.0,
-        "params": {
-            "keyword": "ARS",
+            "keyword": "IMF",
             "platform": "reddit",
-            "label": "r/Forex",
+            "label": "r/economics",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -1955,28 +1988,6 @@
         }
     },
     {
-        "id": "crawler-5-bb8b63be-94ae-4a86-9bc2-754f4fa60072",
-        "weight": 1.0,
-        "params": {
-            "keyword": "IMF",
-            "platform": "reddit",
-            "label": "r/economics",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-6-4bb3616d-2446-493d-a5f8-4da937955bfb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "forests",
-            "platform": "reddit",
-            "label": "r/environment",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-3-4bb3616d-2446-493d-a5f8-4da937955bfb",
         "weight": 1.0,
         "params": {
@@ -1988,34 +1999,12 @@
         }
     },
     {
-        "id": "crawler-4-4bb3616d-2446-493d-a5f8-4da937955bfb",
+        "id": "crawler-6-4bb3616d-2446-493d-a5f8-4da937955bfb",
         "weight": 1.0,
         "params": {
-            "keyword": "policy",
+            "keyword": "forests",
             "platform": "reddit",
-            "label": "r/brazil",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-2-4bb3616d-2446-493d-a5f8-4da937955bfb",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Climate",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-0-4bb3616d-2446-493d-a5f8-4da937955bfb",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Amazon",
+            "label": "r/environment",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2043,56 +2032,34 @@
         }
     },
     {
-        "id": "crawler-1-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "id": "crawler-0-4bb3616d-2446-493d-a5f8-4da937955bfb",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#Manufacturing",
+            "label": "#Amazon",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-6-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "id": "crawler-2-4bb3616d-2446-493d-a5f8-4da937955bfb",
         "weight": 1.0,
         "params": {
-            "keyword": "plants",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Climate",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-4-4bb3616d-2446-493d-a5f8-4da937955bfb",
+        "weight": 1.0,
+        "params": {
+            "keyword": "policy",
             "platform": "reddit",
-            "label": "r/supplychain",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-2-c8d67f5a-d634-46a0-afd5-a1109084b04f",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Mexico",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-3-c8d67f5a-d634-46a0-afd5-a1109084b04f",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Nearshoring",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-5-c8d67f5a-d634-46a0-afd5-a1109084b04f",
-        "weight": 1.0,
-        "params": {
-            "keyword": "jobs",
-            "platform": "reddit",
-            "label": "r/mexico",
+            "label": "r/brazil",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2109,34 +2076,67 @@
         }
     },
     {
+        "id": "crawler-2-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Mexico",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-5-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "weight": 1.0,
+        "params": {
+            "keyword": "jobs",
+            "platform": "reddit",
+            "label": "r/mexico",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-6-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "weight": 1.0,
+        "params": {
+            "keyword": "plants",
+            "platform": "reddit",
+            "label": "r/supplychain",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-1-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Manufacturing",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-3-c8d67f5a-d634-46a0-afd5-a1109084b04f",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Nearshoring",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-4-c8d67f5a-d634-46a0-afd5-a1109084b04f",
         "weight": 1.0,
         "params": {
             "keyword": "FX",
             "platform": "reddit",
             "label": "r/investing",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-4-8461d85f-8cbe-4518-a197-08208064dd26",
-        "weight": 1.0,
-        "params": {
-            "keyword": "commutes",
-            "platform": "reddit",
-            "label": "r/nyc",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-2-8461d85f-8cbe-4518-a197-08208064dd26",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#NYC",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2153,12 +2153,34 @@
         }
     },
     {
+        "id": "crawler-2-8461d85f-8cbe-4518-a197-08208064dd26",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#NYC",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-1-8461d85f-8cbe-4518-a197-08208064dd26",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#MTA",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-4-8461d85f-8cbe-4518-a197-08208064dd26",
+        "weight": 1.0,
+        "params": {
+            "keyword": "commutes",
+            "platform": "reddit",
+            "label": "r/nyc",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2186,17 +2208,6 @@
         }
     },
     {
-        "id": "crawler-1-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Drought",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-3-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
         "weight": 1.0,
         "params": {
@@ -2208,23 +2219,23 @@
         }
     },
     {
-        "id": "crawler-2-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#WaterPolicy",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-5-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
         "weight": 1.0,
         "params": {
             "keyword": "allocations",
             "platform": "reddit",
             "label": "r/farming",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-2-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#WaterPolicy",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2252,12 +2263,12 @@
         }
     },
     {
-        "id": "crawler-4-9576edd2-beb2-4c99-891f-786f6a06de46",
+        "id": "crawler-1-d75bb6e2-4fa6-4631-a7fb-b903ca6e1ea2",
         "weight": 1.0,
         "params": {
-            "keyword": "safety",
-            "platform": "reddit",
-            "label": "r/AskNYC",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Drought",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2285,6 +2296,17 @@
         }
     },
     {
+        "id": "crawler-0-9576edd2-beb2-4c99-891f-786f6a06de46",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#FEMA",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-5-9576edd2-beb2-4c99-891f-786f6a06de46",
         "weight": 1.0,
         "params": {
@@ -2307,12 +2329,12 @@
         }
     },
     {
-        "id": "crawler-0-9576edd2-beb2-4c99-891f-786f6a06de46",
+        "id": "crawler-4-9576edd2-beb2-4c99-891f-786f6a06de46",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#FEMA",
+            "keyword": "safety",
+            "platform": "reddit",
+            "label": "r/AskNYC",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2351,6 +2373,17 @@
         }
     },
     {
+        "id": "crawler-0-b50696c3-2b34-4b6a-b3a5-a6272d2d486f",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#AirQuality",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-3-b50696c3-2b34-4b6a-b3a5-a6272d2d486f",
         "weight": 1.0,
         "params": {
@@ -2373,12 +2406,12 @@
         }
     },
     {
-        "id": "crawler-0-b50696c3-2b34-4b6a-b3a5-a6272d2d486f",
+        "id": "crawler-5-39622f9b-1104-4d4b-9eb1-0c9ad7885a22",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#AirQuality",
+            "keyword": "daily",
+            "platform": "reddit",
+            "label": "r/ukraine",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2390,6 +2423,17 @@
             "keyword": "aid",
             "platform": "reddit",
             "label": "r/europe",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-1-39622f9b-1104-4d4b-9eb1-0c9ad7885a22",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Europe",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2439,61 +2483,6 @@
         }
     },
     {
-        "id": "crawler-1-39622f9b-1104-4d4b-9eb1-0c9ad7885a22",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Europe",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-5-39622f9b-1104-4d4b-9eb1-0c9ad7885a22",
-        "weight": 1.0,
-        "params": {
-            "keyword": "daily",
-            "platform": "reddit",
-            "label": "r/ukraine",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-2-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Tourism",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-0-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#CentralBank",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-4-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
-        "weight": 1.0,
-        "params": {
-            "keyword": "TRY",
-            "platform": "reddit",
-            "label": "r/Forex",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-6-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
         "weight": 1.0,
         "params": {
@@ -2527,6 +2516,17 @@
         }
     },
     {
+        "id": "crawler-2-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Tourism",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-1-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
         "weight": 1.0,
         "params": {
@@ -2538,23 +2538,23 @@
         }
     },
     {
-        "id": "crawler-3-24acaa70-5c1d-4815-bb24-f42796a42d6c",
+        "id": "crawler-0-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
         "weight": 1.0,
         "params": {
-            "keyword": "startups",
-            "platform": "reddit",
-            "label": "r/croatia",
+            "keyword": null,
+            "platform": "x",
+            "label": "#CentralBank",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-0-24acaa70-5c1d-4815-bb24-f42796a42d6c",
+        "id": "crawler-4-ab61ef2c-a5b8-4539-94c0-9d0ff2656dbc",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Balkans",
+            "keyword": "TRY",
+            "platform": "reddit",
+            "label": "r/Forex",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2571,12 +2571,12 @@
         }
     },
     {
-        "id": "crawler-5-24acaa70-5c1d-4815-bb24-f42796a42d6c",
+        "id": "crawler-1-24acaa70-5c1d-4815-bb24-f42796a42d6c",
         "weight": 1.0,
         "params": {
-            "keyword": "tech",
-            "platform": "reddit",
-            "label": "r/serbia",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Digital",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2593,45 +2593,34 @@
         }
     },
     {
-        "id": "crawler-1-24acaa70-5c1d-4815-bb24-f42796a42d6c",
+        "id": "crawler-0-24acaa70-5c1d-4815-bb24-f42796a42d6c",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#Digital",
+            "label": "#Balkans",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-3-0fa93035-29b5-465e-9870-c37a0522aad4",
+        "id": "crawler-3-24acaa70-5c1d-4815-bb24-f42796a42d6c",
         "weight": 1.0,
         "params": {
-            "keyword": "alerts",
+            "keyword": "startups",
             "platform": "reddit",
-            "label": "r/Iceland",
+            "label": "r/croatia",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-4-0fa93035-29b5-465e-9870-c37a0522aad4",
+        "id": "crawler-5-24acaa70-5c1d-4815-bb24-f42796a42d6c",
         "weight": 1.0,
         "params": {
-            "keyword": "eruptions",
+            "keyword": "tech",
             "platform": "reddit",
-            "label": "r/geology",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-1-0fa93035-29b5-465e-9870-c37a0522aad4",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Travel",
+            "label": "r/serbia",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2648,12 +2637,23 @@
         }
     },
     {
-        "id": "crawler-0-0fa93035-29b5-465e-9870-c37a0522aad4",
+        "id": "crawler-1-0fa93035-29b5-465e-9870-c37a0522aad4",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#Iceland",
+            "label": "#Travel",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-4-0fa93035-29b5-465e-9870-c37a0522aad4",
+        "weight": 1.0,
+        "params": {
+            "keyword": "eruptions",
+            "platform": "reddit",
+            "label": "r/geology",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2670,56 +2670,23 @@
         }
     },
     {
-        "id": "crawler-2-e8d8b688-2de0-4233-a015-9537fc3e62b6",
+        "id": "crawler-0-0fa93035-29b5-465e-9870-c37a0522aad4",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#OffshoreWind",
+            "label": "#Iceland",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-1-e8d8b688-2de0-4233-a015-9537fc3e62b6",
+        "id": "crawler-3-0fa93035-29b5-465e-9870-c37a0522aad4",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Norway",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-3-e8d8b688-2de0-4233-a015-9537fc3e62b6",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Oil",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-6-e8d8b688-2de0-4233-a015-9537fc3e62b6",
-        "weight": 1.0,
-        "params": {
-            "keyword": "policy",
+            "keyword": "alerts",
             "platform": "reddit",
-            "label": "r/norway",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-5-e8d8b688-2de0-4233-a015-9537fc3e62b6",
-        "weight": 1.0,
-        "params": {
-            "keyword": "wind vs oil",
-            "platform": "reddit",
-            "label": "r/energy",
+            "label": "r/Iceland",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2736,34 +2703,56 @@
         }
     },
     {
-        "id": "crawler-0-ddc8d76c-ee70-49c4-8633-51416fa67617",
+        "id": "crawler-2-e8d8b688-2de0-4233-a015-9537fc3e62b6",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#ChipSupply",
+            "label": "#OffshoreWind",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-3-ddc8d76c-ee70-49c4-8633-51416fa67617",
+        "id": "crawler-3-e8d8b688-2de0-4233-a015-9537fc3e62b6",
         "weight": 1.0,
         "params": {
-            "keyword": "GPUs",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Oil",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-1-e8d8b688-2de0-4233-a015-9537fc3e62b6",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Norway",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-5-e8d8b688-2de0-4233-a015-9537fc3e62b6",
+        "weight": 1.0,
+        "params": {
+            "keyword": "wind vs oil",
             "platform": "reddit",
-            "label": "r/hardware",
+            "label": "r/energy",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-2-ddc8d76c-ee70-49c4-8633-51416fa67617",
+        "id": "crawler-6-e8d8b688-2de0-4233-a015-9537fc3e62b6",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#TSMC",
+            "keyword": "policy",
+            "platform": "reddit",
+            "label": "r/norway",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2780,12 +2769,34 @@
         }
     },
     {
+        "id": "crawler-3-ddc8d76c-ee70-49c4-8633-51416fa67617",
+        "weight": 1.0,
+        "params": {
+            "keyword": "GPUs",
+            "platform": "reddit",
+            "label": "r/hardware",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-5-ddc8d76c-ee70-49c4-8633-51416fa67617",
         "weight": 1.0,
         "params": {
             "keyword": "nodes",
             "platform": "reddit",
             "label": "r/semiconductors",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-2-ddc8d76c-ee70-49c4-8633-51416fa67617",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#TSMC",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2802,12 +2813,12 @@
         }
     },
     {
-        "id": "crawler-3-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
+        "id": "crawler-0-ddc8d76c-ee70-49c4-8633-51416fa67617",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#Tour",
+            "label": "#ChipSupply",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2819,28 +2830,6 @@
             "keyword": null,
             "platform": "x",
             "label": "#Stan",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-4-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
-        "weight": 1.0,
-        "params": {
-            "keyword": "promo",
-            "platform": "reddit",
-            "label": "r/koreanvariety",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-0-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Comeback",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2868,6 +2857,39 @@
         }
     },
     {
+        "id": "crawler-3-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Tour",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-0-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Comeback",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-4-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
+        "weight": 1.0,
+        "params": {
+            "keyword": "promo",
+            "platform": "reddit",
+            "label": "r/koreanvariety",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-6-2f2edeb1-26ca-4dec-a624-1b6342633ba7",
         "weight": 1.0,
         "params": {
@@ -2890,6 +2912,17 @@
         }
     },
     {
+        "id": "crawler-6-0b35418f-0912-460b-8702-1dfddffc4368",
+        "weight": 1.0,
+        "params": {
+            "keyword": "cost of living",
+            "platform": "reddit",
+            "label": "r/japan",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
         "id": "crawler-5-0b35418f-0912-460b-8702-1dfddffc4368",
         "weight": 1.0,
         "params": {
@@ -2901,12 +2934,12 @@
         }
     },
     {
-        "id": "crawler-6-0b35418f-0912-460b-8702-1dfddffc4368",
+        "id": "crawler-6-b2f368fa-11af-47ed-b73c-781b794e8f61",
         "weight": 1.0,
         "params": {
-            "keyword": "cost of living",
+            "keyword": "EV stocks",
             "platform": "reddit",
-            "label": "r/japan",
+            "label": "r/investing",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -2934,17 +2967,6 @@
         }
     },
     {
-        "id": "crawler-6-b2f368fa-11af-47ed-b73c-781b794e8f61",
-        "weight": 1.0,
-        "params": {
-            "keyword": "EV stocks",
-            "platform": "reddit",
-            "label": "r/investing",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-3-b2f368fa-11af-47ed-b73c-781b794e8f61",
         "weight": 1.0,
         "params": {
@@ -2967,34 +2989,12 @@
         }
     },
     {
-        "id": "crawler-1-a3334f49-167c-4e3c-b17f-163353fb5f7f",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#India",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
         "id": "crawler-0-a3334f49-167c-4e3c-b17f-163353fb5f7f",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#Elections",
-            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
-            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
-        }
-    },
-    {
-        "id": "crawler-5-a3334f49-167c-4e3c-b17f-163353fb5f7f",
-        "weight": 1.0,
-        "params": {
-            "keyword": "NIFTY",
-            "platform": "reddit",
-            "label": "r/IndianStockMarket",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -3011,23 +3011,23 @@
         }
     },
     {
-        "id": "crawler-2-e8dfd999-5bb8-42aa-9037-09dc8d989782",
+        "id": "crawler-5-a3334f49-167c-4e3c-b17f-163353fb5f7f",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Stablecoins",
+            "keyword": "NIFTY",
+            "platform": "reddit",
+            "label": "r/IndianStockMarket",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
     },
     {
-        "id": "crawler-5-e8dfd999-5bb8-42aa-9037-09dc8d989782",
+        "id": "crawler-1-a3334f49-167c-4e3c-b17f-163353fb5f7f",
         "weight": 1.0,
         "params": {
-            "keyword": "investing",
-            "platform": "reddit",
-            "label": "r/EuropeFIRE",
+            "keyword": null,
+            "platform": "x",
+            "label": "#India",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -3044,12 +3044,12 @@
         }
     },
     {
-        "id": "crawler-4-e8dfd999-5bb8-42aa-9037-09dc8d989782",
+        "id": "crawler-2-e8dfd999-5bb8-42aa-9037-09dc8d989782",
         "weight": 1.0,
         "params": {
-            "keyword": "policy",
-            "platform": "reddit",
-            "label": "r/CryptoCurrency",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Stablecoins",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -3061,6 +3061,28 @@
             "keyword": null,
             "platform": "x",
             "label": "#Switzerland",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-5-e8dfd999-5bb8-42aa-9037-09dc8d989782",
+        "weight": 1.0,
+        "params": {
+            "keyword": "investing",
+            "platform": "reddit",
+            "label": "r/EuropeFIRE",
+            "post_start_datetime": "2025-08-09T00:08:59.126288Z",
+            "post_end_datetime": "2025-11-07T00:08:59.126288Z"
+        }
+    },
+    {
+        "id": "crawler-4-e8dfd999-5bb8-42aa-9037-09dc8d989782",
+        "weight": 1.0,
+        "params": {
+            "keyword": "policy",
+            "platform": "reddit",
+            "label": "r/CryptoCurrency",
             "post_start_datetime": "2025-08-09T00:08:59.126288Z",
             "post_end_datetime": "2025-11-07T00:08:59.126288Z"
         }
@@ -3088,12 +3110,12 @@
         }
     },
     {
-        "id": "crawler-7-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#NYCPolitics",
+            "label": "#PublicSafety",
             "post_start_datetime": "2025-08-06T11:35:52.757975Z",
             "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
@@ -3132,45 +3154,12 @@
         }
     },
     {
-        "id": "crawler-2-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "id": "crawler-7-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#FreezeTheRent",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-14-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": "Sliwa discourse",
-            "platform": "reddit",
-            "label": "r/Republican",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-9-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Sliwa2025",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-15-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": "DSA discussion",
-            "platform": "reddit",
-            "label": "r/Socialism",
+            "label": "#NYCPolitics",
             "post_start_datetime": "2025-08-06T11:35:52.757975Z",
             "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
@@ -3187,12 +3176,45 @@
         }
     },
     {
-        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "id": "crawler-14-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": "Sliwa discourse",
+            "platform": "reddit",
+            "label": "r/Republican",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-2-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#PublicSafety",
+            "label": "#FreezeTheRent",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-15-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": "DSA discussion",
+            "platform": "reddit",
+            "label": "r/Socialism",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-9-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Sliwa2025",
             "post_start_datetime": "2025-08-06T11:35:52.757975Z",
             "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
@@ -3209,17 +3231,6 @@
         }
     },
     {
-        "id": "crawler-5-e44b5fd1-733b-44e0-9718-38a5cc574ccb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "rates",
-            "platform": "reddit",
-            "label": "r/UKPersonalFinance",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-4-e44b5fd1-733b-44e0-9718-38a5cc574ccb",
         "weight": 1.0,
         "params": {
@@ -3231,12 +3242,12 @@
         }
     },
     {
-        "id": "crawler-0-b7f4038b-1d08-498b-80cd-b37f55c3e181",
+        "id": "crawler-5-e44b5fd1-733b-44e0-9718-38a5cc574ccb",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Ethiopia",
+            "keyword": "rates",
+            "platform": "reddit",
+            "label": "r/UKPersonalFinance",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3253,23 +3264,23 @@
         }
     },
     {
-        "id": "crawler-2-b7f4038b-1d08-498b-80cd-b37f55c3e181",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Reconstruction",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-3-b7f4038b-1d08-498b-80cd-b37f55c3e181",
         "weight": 1.0,
         "params": {
             "keyword": "diplomacy",
             "platform": "reddit",
             "label": "r/Africa",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-0-b7f4038b-1d08-498b-80cd-b37f55c3e181",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Ethiopia",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3286,12 +3297,23 @@
         }
     },
     {
-        "id": "crawler-5-a666c223-114b-48bb-85e7-f1e9d0a5c9c2",
+        "id": "crawler-2-b7f4038b-1d08-498b-80cd-b37f55c3e181",
         "weight": 1.0,
         "params": {
-            "keyword": "harvest",
-            "platform": "reddit",
-            "label": "r/WorldNews",
+            "keyword": null,
+            "platform": "x",
+            "label": "#Reconstruction",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-0-a666c223-114b-48bb-85e7-f1e9d0a5c9c2",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Cocoa",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3308,12 +3330,12 @@
         }
     },
     {
-        "id": "crawler-0-a666c223-114b-48bb-85e7-f1e9d0a5c9c2",
+        "id": "crawler-5-a666c223-114b-48bb-85e7-f1e9d0a5c9c2",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Cocoa",
+            "keyword": "harvest",
+            "platform": "reddit",
+            "label": "r/WorldNews",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3726,12 +3748,12 @@
         }
     },
     {
-        "id": "crawler-4-090d205d-9762-4001-b950-d2574de70a1a",
+        "id": "crawler-5-090d205d-9762-4001-b950-d2574de70a1a",
         "weight": 1.0,
         "params": {
-            "keyword": "selection",
+            "keyword": "fixtures",
             "platform": "reddit",
-            "label": "r/PakCricket",
+            "label": "r/sports",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3759,23 +3781,34 @@
         }
     },
     {
-        "id": "crawler-5-090d205d-9762-4001-b950-d2574de70a1a",
-        "weight": 1.0,
-        "params": {
-            "keyword": "fixtures",
-            "platform": "reddit",
-            "label": "r/sports",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-1-090d205d-9762-4001-b950-d2574de70a1a",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#Cricket",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-4-090d205d-9762-4001-b950-d2574de70a1a",
+        "weight": 1.0,
+        "params": {
+            "keyword": "selection",
+            "platform": "reddit",
+            "label": "r/PakCricket",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-4-23c227d7-97b3-495e-be3c-a6263c68fa2c",
+        "weight": 1.0,
+        "params": {
+            "keyword": "strikes",
+            "platform": "reddit",
+            "label": "r/bangladesh",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3803,17 +3836,6 @@
         }
     },
     {
-        "id": "crawler-6-23c227d7-97b3-495e-be3c-a6263c68fa2c",
-        "weight": 1.0,
-        "params": {
-            "keyword": "apparel",
-            "platform": "reddit",
-            "label": "r/supplychain",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-0-23c227d7-97b3-495e-be3c-a6263c68fa2c",
         "weight": 1.0,
         "params": {
@@ -3825,23 +3847,12 @@
         }
     },
     {
-        "id": "crawler-2-23c227d7-97b3-495e-be3c-a6263c68fa2c",
+        "id": "crawler-6-23c227d7-97b3-495e-be3c-a6263c68fa2c",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Garments",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-4-23c227d7-97b3-495e-be3c-a6263c68fa2c",
-        "weight": 1.0,
-        "params": {
-            "keyword": "strikes",
+            "keyword": "apparel",
             "platform": "reddit",
-            "label": "r/bangladesh",
+            "label": "r/supplychain",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3853,6 +3864,17 @@
             "keyword": "exports",
             "platform": "reddit",
             "label": "r/economics",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-2-23c227d7-97b3-495e-be3c-a6263c68fa2c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Garments",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3902,6 +3924,17 @@
         }
     },
     {
+        "id": "crawler-5-23bc708e-1499-4a48-8405-b21e17b1bc84",
+        "weight": 1.0,
+        "params": {
+            "keyword": "FDI",
+            "platform": "reddit",
+            "label": "r/investing",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
         "id": "crawler-2-23bc708e-1499-4a48-8405-b21e17b1bc84",
         "weight": 1.0,
         "params": {
@@ -3919,6 +3952,17 @@
             "keyword": null,
             "platform": "x",
             "label": "#Vietnam",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-0-23bc708e-1499-4a48-8405-b21e17b1bc84",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#FDI",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -3946,17 +3990,6 @@
         }
     },
     {
-        "id": "crawler-5-23bc708e-1499-4a48-8405-b21e17b1bc84",
-        "weight": 1.0,
-        "params": {
-            "keyword": "FDI",
-            "platform": "reddit",
-            "label": "r/investing",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-1-a81f9e20-0141-4cd3-bf56-d6485ba993ee",
         "weight": 1.0,
         "params": {
@@ -3968,23 +4001,23 @@
         }
     },
     {
-        "id": "crawler-6-a81f9e20-0141-4cd3-bf56-d6485ba993ee",
-        "weight": 1.0,
-        "params": {
-            "keyword": "visas",
-            "platform": "reddit",
-            "label": "r/travel",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-0-a81f9e20-0141-4cd3-bf56-d6485ba993ee",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#Bangkok",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-6-a81f9e20-0141-4cd3-bf56-d6485ba993ee",
+        "weight": 1.0,
+        "params": {
+            "keyword": "visas",
+            "platform": "reddit",
+            "label": "r/travel",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -6704,28 +6737,6 @@
             "label": "#ethereum",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-0-zveqvxbu3jbcl7o7mkekk",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/askreddit",
-            "post_start_datetime": "2025-10-12T21:00:00Z",
-            "post_end_datetime": "2025-11-12T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-zveqvxbu3jbcl7o7mkekk",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#trending",
-            "post_start_datetime": "2025-10-12T21:00:00Z",
-            "post_end_datetime": "2025-11-12T21:59:59Z"
         }
     }
 ]
