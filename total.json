@@ -264,6 +264,28 @@
         }
     },
     {
+        "id": "crawler-0-zveqvxbu3jbcl7o7mkekk",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/askreddit",
+            "post_start_datetime": "2025-10-12T21:00:00Z",
+            "post_end_datetime": "2025-11-12T21:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-1-zveqvxbu3jbcl7o7mkekk",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#trending",
+            "post_start_datetime": "2025-10-12T21:00:00Z",
+            "post_end_datetime": "2025-11-12T21:59:59Z"
+        }
+    },
+    {
         "id": "crawler-1-cnqvuwj7cxd79mtvywozg",
         "weight": 1.0,
         "params": {
@@ -7848,28 +7870,6 @@
             "label": "#crypto",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-0-zveqvxbu3jbcl7o7mkekk",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/askreddit",
-            "post_start_datetime": "2025-10-12T21:00:00Z",
-            "post_end_datetime": "2025-11-12T21:59:59Z"
-        }
-    },
-    {
-        "id": "crawler-1-zveqvxbu3jbcl7o7mkekk",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#trending",
-            "post_start_datetime": "2025-10-12T21:00:00Z",
-            "post_end_datetime": "2025-11-12T21:59:59Z"
         }
     }
 ]
