@@ -188,7 +188,7 @@
     },
     {
         "id": "default_17",
-        "weight": 1.1466275659824048,
+        "weight": 1.1465416178194607,
         "params": {
             "keyword": null,
             "platform": "x",
@@ -261,17 +261,6 @@
             "label": "#MacrocosmosAI",
             "post_start_datetime": null,
             "post_end_datetime": null
-        }
-    },
-    {
-        "id": "crawler-0-g50hu-igv-32mj6mtp8nj",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/news",
-            "post_start_datetime": "2025-10-18T23:00:00Z",
-            "post_end_datetime": "2025-11-18T23:59:59Z"
         }
     },
     {
@@ -7258,12 +7247,12 @@
         }
     },
     {
-        "id": "crawler-8-f48352a6-d1fd-4045-9d85-0727a4a0e50c",
+        "id": "crawler-10-f48352a6-d1fd-4045-9d85-0727a4a0e50c",
         "weight": 1.0,
         "params": {
             "keyword": null,
-            "platform": "x",
-            "label": "#memes",
+            "platform": "reddit",
+            "label": "r/memeeconomy",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -7313,12 +7302,12 @@
         }
     },
     {
-        "id": "crawler-10-f48352a6-d1fd-4045-9d85-0727a4a0e50c",
+        "id": "crawler-8-f48352a6-d1fd-4045-9d85-0727a4a0e50c",
         "weight": 1.0,
         "params": {
             "keyword": null,
-            "platform": "reddit",
-            "label": "r/memeeconomy",
+            "platform": "x",
+            "label": "#memes",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8600,10 +8589,10 @@
         }
     },
     {
-        "id": "crawler-2-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
+        "id": "crawler-0-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
         "weight": 1.0,
         "params": {
-            "keyword": "anti abortion",
+            "keyword": "US abortion",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -8798,10 +8787,10 @@
         }
     },
     {
-        "id": "crawler-0-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
+        "id": "crawler-2-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
         "weight": 1.0,
         "params": {
-            "keyword": "US abortion",
+            "keyword": "anti abortion",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -8952,10 +8941,10 @@
         }
     },
     {
-        "id": "crawler-0-9b05e4bb-18a3-47b2-9563-0589dff1f1c9",
+        "id": "crawler-4-9b05e4bb-18a3-47b2-9563-0589dff1f1c9",
         "weight": 1.0,
         "params": {
-            "keyword": "cost inflation",
+            "keyword": "energy crisis",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -8963,10 +8952,10 @@
         }
     },
     {
-        "id": "crawler-4-9b05e4bb-18a3-47b2-9563-0589dff1f1c9",
+        "id": "crawler-0-9b05e4bb-18a3-47b2-9563-0589dff1f1c9",
         "weight": 1.0,
         "params": {
-            "keyword": "energy crisis",
+            "keyword": "cost inflation",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -9046,6 +9035,17 @@
             "keyword": "hiking gear reviews",
             "platform": "reddit",
             "label": null,
+            "post_start_datetime": "2025-10-17T23:00:00Z",
+            "post_end_datetime": "2025-11-17T23:59:59Z"
+        }
+    },
+    {
+        "id": "crawler-4-elziwgw43qcjzczlhzrwi",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/nationalparks",
             "post_start_datetime": "2025-10-17T23:00:00Z",
             "post_end_datetime": "2025-11-17T23:59:59Z"
         }
@@ -18249,6 +18249,17 @@
             "label": "r/ethereum",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-0-g50hu-igv-32mj6mtp8nj",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/news",
+            "post_start_datetime": "2025-10-18T23:00:00Z",
+            "post_end_datetime": "2025-11-18T23:59:59Z"
         }
     }
 ]
