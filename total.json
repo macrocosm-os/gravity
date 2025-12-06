@@ -1286,6 +1286,17 @@
         }
     },
     {
+        "id": "crawler-6-6f856315-6bc5-461e-9c11-1da9cacec04d",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#bittensor",
+            "post_start_datetime": "2025-08-28T17:30:47.075039Z",
+            "post_end_datetime": "2025-11-26T17:30:47.075039Z"
+        }
+    },
+    {
         "id": "crawler-4-6f856315-6bc5-461e-9c11-1da9cacec04d",
         "weight": 1.0,
         "params": {
@@ -6984,6 +6995,17 @@
         }
     },
     {
+        "id": "crawler-4-0905b527-3ae2-4e41-bc0e-941f3c613cea",
+        "weight": 1.0,
+        "params": {
+            "keyword": "sentiment analysis",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
+            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
+        }
+    },
+    {
         "id": "crawler-1-0905b527-3ae2-4e41-bc0e-941f3c613cea",
         "weight": 1.0,
         "params": {
@@ -7001,17 +7023,6 @@
             "keyword": null,
             "platform": "x",
             "label": "#Mamdani",
-            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
-            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
-        }
-    },
-    {
-        "id": "crawler-4-0905b527-3ae2-4e41-bc0e-941f3c613cea",
-        "weight": 1.0,
-        "params": {
-            "keyword": "sentiment analysis",
-            "platform": "x",
-            "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -7699,17 +7710,6 @@
         }
     },
     {
-        "id": "crawler-9-c51e798d-1918-4809-9b14-7fde0878f3ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/socialmedia",
-            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
-            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
-        }
-    },
-    {
         "id": "crawler-3-c51e798d-1918-4809-9b14-7fde0878f3ae",
         "weight": 1.0,
         "params": {
@@ -7749,6 +7749,17 @@
             "keyword": null,
             "platform": "x",
             "label": "#TikTokToYouTube",
+            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
+            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
+        }
+    },
+    {
+        "id": "crawler-9-c51e798d-1918-4809-9b14-7fde0878f3ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/socialmedia",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -7996,12 +8007,12 @@
         }
     },
     {
-        "id": "crawler-7-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
+        "id": "crawler-0-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
         "weight": 1.0,
         "params": {
-            "keyword": null,
+            "keyword": "YouTube Shorts",
             "platform": "x",
-            "label": "#ShortFormVideo",
+            "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8012,17 +8023,6 @@
         "params": {
             "keyword": "longform",
             "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
-            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
-        }
-    },
-    {
-        "id": "crawler-0-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
-        "weight": 1.0,
-        "params": {
-            "keyword": "YouTube Shorts",
-            "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
@@ -8040,6 +8040,17 @@
         }
     },
     {
+        "id": "crawler-2-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
+        "weight": 1.0,
+        "params": {
+            "keyword": "shortform",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
+            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
+        }
+    },
+    {
         "id": "crawler-4-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
         "weight": 1.0,
         "params": {
@@ -8051,12 +8062,12 @@
         }
     },
     {
-        "id": "crawler-2-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
+        "id": "crawler-7-12b1d1c5-a594-4f37-9027-26ccfc61ea97",
         "weight": 1.0,
         "params": {
-            "keyword": "shortform",
-            "platform": "reddit",
-            "label": null,
+            "keyword": null,
+            "platform": "x",
+            "label": "#ShortFormVideo",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8194,10 +8205,10 @@
         }
     },
     {
-        "id": "crawler-1-20a41623-e06a-4682-8f8b-6c26e7731cbe",
+        "id": "crawler-2-20a41623-e06a-4682-8f8b-6c26e7731cbe",
         "weight": 1.0,
         "params": {
-            "keyword": "EU campaigns",
+            "keyword": "TTPA",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -8238,10 +8249,10 @@
         }
     },
     {
-        "id": "crawler-2-20a41623-e06a-4682-8f8b-6c26e7731cbe",
+        "id": "crawler-1-20a41623-e06a-4682-8f8b-6c26e7731cbe",
         "weight": 1.0,
         "params": {
-            "keyword": "TTPA",
+            "keyword": "EU campaigns",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
@@ -8249,12 +8260,12 @@
         }
     },
     {
-        "id": "crawler-10-4842c171-547f-43c7-a025-ee45b77ed814",
+        "id": "crawler-1-4842c171-547f-43c7-a025-ee45b77ed814",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#PopUp",
+            "keyword": "Experiential",
+            "platform": "reddit",
+            "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8293,6 +8304,17 @@
         }
     },
     {
+        "id": "crawler-9-4842c171-547f-43c7-a025-ee45b77ed814",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Immersive",
+            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
+            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
+        }
+    },
+    {
         "id": "crawler-7-4842c171-547f-43c7-a025-ee45b77ed814",
         "weight": 1.0,
         "params": {
@@ -8310,17 +8332,6 @@
             "keyword": "popup",
             "platform": "x",
             "label": null,
-            "post_start_datetime": "2025-08-20T10:19:20.248932Z",
-            "post_end_datetime": "2025-11-18T10:19:20.248932Z"
-        }
-    },
-    {
-        "id": "crawler-9-4842c171-547f-43c7-a025-ee45b77ed814",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Immersive",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8359,12 +8370,12 @@
         }
     },
     {
-        "id": "crawler-1-4842c171-547f-43c7-a025-ee45b77ed814",
+        "id": "crawler-10-4842c171-547f-43c7-a025-ee45b77ed814",
         "weight": 1.0,
         "params": {
-            "keyword": "Experiential",
-            "platform": "reddit",
-            "label": null,
+            "keyword": null,
+            "platform": "x",
+            "label": "#PopUp",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8469,12 +8480,12 @@
         }
     },
     {
-        "id": "crawler-18-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
+        "id": "crawler-9-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
         "weight": 1.0,
         "params": {
-            "keyword": null,
+            "keyword": "pro-abortion",
             "platform": "reddit",
-            "label": "r/Conservative",
+            "label": null,
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8579,12 +8590,12 @@
         }
     },
     {
-        "id": "crawler-9-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
+        "id": "crawler-18-589f4ec6-f059-4af4-ab92-4d6c5ac1390c",
         "weight": 1.0,
         "params": {
-            "keyword": "pro-abortion",
+            "keyword": null,
             "platform": "reddit",
-            "label": null,
+            "label": "r/Conservative",
             "post_start_datetime": "2025-08-20T10:19:20.248932Z",
             "post_end_datetime": "2025-11-18T10:19:20.248932Z"
         }
@@ -8777,23 +8788,23 @@
         }
     },
     {
-        "id": "crawler-11-71c7df99-5d1f-4b21-affc-4cc0f5c96b88",
-        "weight": 1.0,
-        "params": {
-            "keyword": "workload",
-            "platform": "reddit",
-            "label": "r/creators",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
         "id": "crawler-10-71c7df99-5d1f-4b21-affc-4cc0f5c96b88",
         "weight": 1.0,
         "params": {
             "keyword": "breaks",
             "platform": "reddit",
             "label": "r/Twitch",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-11-71c7df99-5d1f-4b21-affc-4cc0f5c96b88",
+        "weight": 1.0,
+        "params": {
+            "keyword": "workload",
+            "platform": "reddit",
+            "label": "r/creators",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -9129,12 +9140,12 @@
         }
     },
     {
-        "id": "crawler-9-dbf1fc23-2014-46b8-9b0c-555ce2729ed1",
+        "id": "crawler-13-dbf1fc23-2014-46b8-9b0c-555ce2729ed1",
         "weight": 1.0,
         "params": {
             "keyword": null,
-            "platform": "x",
-            "label": "#Shorts",
+            "platform": "reddit",
+            "label": "r/YouTubers",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -9239,23 +9250,23 @@
         }
     },
     {
+        "id": "crawler-9-dbf1fc23-2014-46b8-9b0c-555ce2729ed1",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Shorts",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
         "id": "crawler-1-dbf1fc23-2014-46b8-9b0c-555ce2729ed1",
         "weight": 1.0,
         "params": {
             "keyword": "youtube algorithm",
             "platform": "reddit",
             "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-13-dbf1fc23-2014-46b8-9b0c-555ce2729ed1",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/YouTubers",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -9305,17 +9316,6 @@
         }
     },
     {
-        "id": "crawler-6-7ecca479-cf21-4525-8ee7-1d2b806a5e4a",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#NVIDIA",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
         "id": "crawler-5-7ecca479-cf21-4525-8ee7-1d2b806a5e4a",
         "weight": 1.0,
         "params": {
@@ -9333,6 +9333,17 @@
             "keyword": null,
             "platform": "x",
             "label": "#AIChips",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-6-7ecca479-cf21-4525-8ee7-1d2b806a5e4a",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#NVIDIA",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -9800,10 +9811,10 @@
         }
     },
     {
-        "id": "crawler-7-6d178c74-8798-4da1-8188-8cd693385e86",
+        "id": "crawler-13-6d178c74-8798-4da1-8188-8cd693385e86",
         "weight": 1.0,
         "params": {
-            "keyword": "carbon plated",
+            "keyword": "super trainers",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -9822,10 +9833,10 @@
         }
     },
     {
-        "id": "crawler-13-6d178c74-8798-4da1-8188-8cd693385e86",
+        "id": "crawler-5-6d178c74-8798-4da1-8188-8cd693385e86",
         "weight": 1.0,
         "params": {
-            "keyword": "super trainers",
+            "keyword": "carbon plate shoes",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -9833,10 +9844,10 @@
         }
     },
     {
-        "id": "crawler-5-6d178c74-8798-4da1-8188-8cd693385e86",
+        "id": "crawler-7-6d178c74-8798-4da1-8188-8cd693385e86",
         "weight": 1.0,
         "params": {
-            "keyword": "carbon plate shoes",
+            "keyword": "carbon plated",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -11659,10 +11670,10 @@
         }
     },
     {
-        "id": "crawler-4-9d46a58f-4eb6-4c56-b85f-438fcca6853a",
+        "id": "crawler-12-9d46a58f-4eb6-4c56-b85f-438fcca6853a",
         "weight": 1.0,
         "params": {
-            "keyword": "farm subsidies",
+            "keyword": "petrol subsidy",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -11670,10 +11681,10 @@
         }
     },
     {
-        "id": "crawler-12-9d46a58f-4eb6-4c56-b85f-438fcca6853a",
+        "id": "crawler-4-9d46a58f-4eb6-4c56-b85f-438fcca6853a",
         "weight": 1.0,
         "params": {
-            "keyword": "petrol subsidy",
+            "keyword": "farm subsidies",
             "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -12077,6 +12088,50 @@
         }
     },
     {
+        "id": "crawler-13-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/NewTubers",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-9-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Creators",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-6-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "weight": 1.0,
+        "params": {
+            "keyword": "youtube subscribers",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-12-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/ContentCreators",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
         "id": "crawler-7-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
         "weight": 1.0,
         "params": {
@@ -12132,32 +12187,10 @@
         }
     },
     {
-        "id": "crawler-13-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "id": "crawler-1-83d611b2-1c99-4fa3-8701-ae052fa35942",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/NewTubers",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-12-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/ContentCreators",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-6-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
-        "weight": 1.0,
-        "params": {
-            "keyword": "youtube subscribers",
+            "keyword": "iphone 17",
             "platform": "reddit",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
@@ -12165,12 +12198,45 @@
         }
     },
     {
-        "id": "crawler-9-6abd0c40-d37d-40ea-b627-2c72a3cbccf6",
+        "id": "crawler-6-83d611b2-1c99-4fa3-8701-ae052fa35942",
         "weight": 1.0,
         "params": {
-            "keyword": null,
+            "keyword": "iphone scratch",
             "platform": "x",
-            "label": "#Creators",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-2-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "weight": 1.0,
+        "params": {
+            "keyword": "iphone air",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-8-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "weight": 1.0,
+        "params": {
+            "keyword": "iphone speaker",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-5-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "weight": 1.0,
+        "params": {
+            "keyword": "iphone release",
+            "platform": "reddit",
+            "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -12182,6 +12248,28 @@
             "keyword": "iphone 17",
             "platform": "x",
             "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-15-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/iphone",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-14-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/apple",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -12253,72 +12341,6 @@
         }
     },
     {
-        "id": "crawler-7-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": "iphone scratch",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-6-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": "iphone scratch",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-2-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": "iphone air",
-            "platform": "x",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-5-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": "iphone release",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-15-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/iphone",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-14-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/apple",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
         "id": "crawler-11-83d611b2-1c99-4fa3-8701-ae052fa35942",
         "weight": 1.0,
         "params": {
@@ -12341,22 +12363,11 @@
         }
     },
     {
-        "id": "crawler-1-83d611b2-1c99-4fa3-8701-ae052fa35942",
+        "id": "crawler-7-83d611b2-1c99-4fa3-8701-ae052fa35942",
         "weight": 1.0,
         "params": {
-            "keyword": "iphone 17",
+            "keyword": "iphone scratch",
             "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-8-83d611b2-1c99-4fa3-8701-ae052fa35942",
-        "weight": 1.0,
-        "params": {
-            "keyword": "iphone speaker",
-            "platform": "x",
             "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
@@ -12605,39 +12616,6 @@
         }
     },
     {
-        "id": "crawler-5-29b4f1db-acaf-4961-b18d-d913c84cd066",
-        "weight": 1.0,
-        "params": {
-            "keyword": "ozempic",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-7-29b4f1db-acaf-4961-b18d-d913c84cd066",
-        "weight": 1.0,
-        "params": {
-            "keyword": "wegovy",
-            "platform": "reddit",
-            "label": null,
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-10-29b4f1db-acaf-4961-b18d-d913c84cd066",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#GLP1",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
         "id": "crawler-16-29b4f1db-acaf-4961-b18d-d913c84cd066",
         "weight": 1.0,
         "params": {
@@ -12660,23 +12638,45 @@
         }
     },
     {
+        "id": "crawler-4-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "weight": 1.0,
+        "params": {
+            "keyword": "ozempic",
+            "platform": "x",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-5-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "weight": 1.0,
+        "params": {
+            "keyword": "ozempic",
+            "platform": "reddit",
+            "label": null,
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-10-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#GLP1",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
         "id": "crawler-13-29b4f1db-acaf-4961-b18d-d913c84cd066",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#Wegovy",
-            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
-            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
-        }
-    },
-    {
-        "id": "crawler-15-29b4f1db-acaf-4961-b18d-d913c84cd066",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/diabetes",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -12693,12 +12693,12 @@
         }
     },
     {
-        "id": "crawler-11-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "id": "crawler-7-29b4f1db-acaf-4961-b18d-d913c84cd066",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Mounjaro",
+            "keyword": "wegovy",
+            "platform": "reddit",
+            "label": null,
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -12715,12 +12715,23 @@
         }
     },
     {
-        "id": "crawler-4-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "id": "crawler-11-29b4f1db-acaf-4961-b18d-d913c84cd066",
         "weight": 1.0,
         "params": {
-            "keyword": "ozempic",
+            "keyword": null,
             "platform": "x",
-            "label": null,
+            "label": "#Mounjaro",
+            "post_start_datetime": "2025-08-16T18:13:02.140593Z",
+            "post_end_datetime": "2025-11-14T18:13:02.140593Z"
+        }
+    },
+    {
+        "id": "crawler-15-29b4f1db-acaf-4961-b18d-d913c84cd066",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/diabetes",
             "post_start_datetime": "2025-08-16T18:13:02.140593Z",
             "post_end_datetime": "2025-11-14T18:13:02.140593Z"
         }
@@ -13023,12 +13034,23 @@
         }
     },
     {
-        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "id": "crawler-4-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
-            "label": "#PublicSafety",
+            "label": "#MamdaniForMayor",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-15-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": "DSA discussion",
+            "platform": "reddit",
+            "label": "r/Socialism",
             "post_start_datetime": "2025-08-06T11:35:52.757975Z",
             "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
@@ -13089,39 +13111,6 @@
         }
     },
     {
-        "id": "crawler-12-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": "debate threads",
-            "platform": "reddit",
-            "label": "r/NYCPolitics",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-4-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#MamdaniForMayor",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
-        "id": "crawler-15-08b9598c-cef2-4c58-8a68-bed8565401ae",
-        "weight": 1.0,
-        "params": {
-            "keyword": "DSA discussion",
-            "platform": "reddit",
-            "label": "r/Socialism",
-            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
-            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
-        }
-    },
-    {
         "id": "crawler-0-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
@@ -13144,14 +13133,25 @@
         }
     },
     {
-        "id": "crawler-4-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
+        "id": "crawler-8-08b9598c-cef2-4c58-8a68-bed8565401ae",
         "weight": 1.0,
         "params": {
-            "keyword": "research data",
+            "keyword": null,
+            "platform": "x",
+            "label": "#PublicSafety",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
+        }
+    },
+    {
+        "id": "crawler-12-08b9598c-cef2-4c58-8a68-bed8565401ae",
+        "weight": 1.0,
+        "params": {
+            "keyword": "debate threads",
             "platform": "reddit",
-            "label": "r/datasets",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+            "label": "r/NYCPolitics",
+            "post_start_datetime": "2025-08-06T11:35:52.757975Z",
+            "post_end_datetime": "2025-11-04T11:35:52.757975Z"
         }
     },
     {
@@ -13161,28 +13161,6 @@
             "keyword": "seismic events",
             "platform": "reddit",
             "label": "r/geology",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-2-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#Tsunami",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-3-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
-        "weight": 1.0,
-        "params": {
-            "keyword": "natural disasters",
-            "platform": "reddit",
-            "label": "r/climate",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -13210,12 +13188,78 @@
         }
     },
     {
+        "id": "crawler-2-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#Tsunami",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-3-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
+        "weight": 1.0,
+        "params": {
+            "keyword": "natural disasters",
+            "platform": "reddit",
+            "label": "r/climate",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-4-1cdeaf36-c7fc-4b16-8eea-b738ac92acba",
+        "weight": 1.0,
+        "params": {
+            "keyword": "research data",
+            "platform": "reddit",
+            "label": "r/datasets",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-3-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
+        "weight": 1.0,
+        "params": {
+            "keyword": "tracking",
+            "platform": "reddit",
+            "label": "r/aviation",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
         "id": "crawler-0-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
         "weight": 1.0,
         "params": {
             "keyword": null,
             "platform": "x",
             "label": "#AviationAI",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-2-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#MLChallenge",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-4-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
+        "weight": 1.0,
+        "params": {
+            "keyword": "ML competitions",
+            "platform": "reddit",
+            "label": "r/datascience",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -13238,72 +13282,6 @@
             "keyword": null,
             "platform": "x",
             "label": "#FlightTracking",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-3-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
-        "weight": 1.0,
-        "params": {
-            "keyword": "tracking",
-            "platform": "reddit",
-            "label": "r/aviation",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-4-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
-        "weight": 1.0,
-        "params": {
-            "keyword": "ML competitions",
-            "platform": "reddit",
-            "label": "r/datascience",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-2-40eeebbb-2adc-4e5c-82e7-0c58c89d4794",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#MLChallenge",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-7-b3261710-ed64-4771-a938-597427b422bb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "macro trends",
-            "platform": "reddit",
-            "label": "r/cryptomarkets",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-5-b3261710-ed64-4771-a938-597427b422bb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "bearish",
-            "platform": "reddit",
-            "label": "r/CryptoCurrency",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-4-b3261710-ed64-4771-a938-597427b422bb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "price",
-            "platform": "reddit",
-            "label": "r/Bitcoin",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -13342,17 +13320,6 @@
         }
     },
     {
-        "id": "crawler-6-b3261710-ed64-4771-a938-597427b422bb",
-        "weight": 1.0,
-        "params": {
-            "keyword": "bullish",
-            "platform": "reddit",
-            "label": "r/CryptoCurrency",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
         "id": "crawler-0-b3261710-ed64-4771-a938-597427b422bb",
         "weight": 1.0,
         "params": {
@@ -13364,78 +13331,45 @@
         }
     },
     {
-        "id": "crawler-4-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "id": "crawler-4-b3261710-ed64-4771-a938-597427b422bb",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#defi",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-3-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#cryptocurrency",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-2-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#crypto",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-1-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#bitcoin",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-8-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
+            "keyword": "price",
             "platform": "reddit",
-            "label": "r/crypto",
+            "label": "r/Bitcoin",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
     },
     {
-        "id": "crawler-0-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "id": "crawler-5-b3261710-ed64-4771-a938-597427b422bb",
         "weight": 1.0,
         "params": {
-            "keyword": null,
-            "platform": "x",
-            "label": "#altcoin",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-11-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
+            "keyword": "bearish",
             "platform": "reddit",
-            "label": "r/ethereum",
+            "label": "r/CryptoCurrency",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-6-b3261710-ed64-4771-a938-597427b422bb",
+        "weight": 1.0,
+        "params": {
+            "keyword": "bullish",
+            "platform": "reddit",
+            "label": "r/CryptoCurrency",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-7-b3261710-ed64-4771-a938-597427b422bb",
+        "weight": 1.0,
+        "params": {
+            "keyword": "macro trends",
+            "platform": "reddit",
+            "label": "r/cryptomarkets",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
@@ -13463,6 +13397,94 @@
         }
     },
     {
+        "id": "crawler-10-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/defi",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-3-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#cryptocurrency",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-4-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#defi",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-2-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#crypto",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-8-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/crypto",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-1-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#bitcoin",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-0-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "x",
+            "label": "#altcoin",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
+        "id": "crawler-11-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
+        "weight": 1.0,
+        "params": {
+            "keyword": null,
+            "platform": "reddit",
+            "label": "r/ethereum",
+            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
+            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
+        }
+    },
+    {
         "id": "crawler-7-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
         "weight": 1.0,
         "params": {
@@ -13480,17 +13502,6 @@
             "keyword": null,
             "platform": "reddit",
             "label": "r/cryptocurrency",
-            "post_start_datetime": "2025-08-02T10:03:43.152914Z",
-            "post_end_datetime": "2025-10-31T10:03:43.152914Z"
-        }
-    },
-    {
-        "id": "crawler-10-e96d8f3d-2a3f-46b6-88a6-e2b08f115c1c",
-        "weight": 1.0,
-        "params": {
-            "keyword": null,
-            "platform": "reddit",
-            "label": "r/defi",
             "post_start_datetime": "2025-08-02T10:03:43.152914Z",
             "post_end_datetime": "2025-10-31T10:03:43.152914Z"
         }
